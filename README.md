@@ -1,64 +1,52 @@
-# Phase 1 Project
-
-You've made it all the way through the first phase of this course - take a minute to celebrate your awesomeness!
-
-![awesome](https://raw.githubusercontent.com/learn-co-curriculum/dsc-phase-1-project/master/awesome.gif)
-
-Now you will put your new skills to use with a large end-of-Phase project! This project should take 20 to 30 hours to complete.
+# Movie Analysis
 
 ## Project Overview
 
-For this project, you will use exploratory data analysis to generate insights for a business stakeholder.
+The MovieAnalysis project involves gathering data from APIs and webscraping. After the data was gathered, exploratory data analysis was used to generate insights for making recommendations for the new Microsoft Movies team. 
 
-### Business Problem
+### Presentation Link:
+  * https://docs.google.com/presentation/d/1vO2e7Su6gVlR2l-b_L3V1aV8nKcpk4_h_4QEDuCrOiU/edit?usp=sharing
 
-Microsoft sees all the big companies creating original video content and they want to get in on the fun. They have decided to create a new movie studio, but they don’t know anything about creating movies. You are charged with exploring what types of films are currently doing the best at the box office. You must then translate those findings into actionable insights that the head of Microsoft's new movie studio can use to help decide what type of films to create.
+### Data
 
-### The Data
+#### Movie datasets are collected from:
+  * IMDB website with Beautiful Soup
+  * https://www.themoviedb.org/ with API call
 
-In the folder `zippedData` are movie datasets from:
+#### The visuals were provided by manipulating the following variables:
+  * Genres
+  * Gross Revenues
+  * Release Month
+  * IMDB Ratings
+  * TMDB Popularity
+  * Runtime
 
-* Box Office Mojo
-* IMDB
-* Rotten Tomatoes
-* TheMovieDB.org
+### Graphs / Findings
 
-It is up to you to decide what data from this to use and how to use it. If you want to make this more challenging, you can scrape websites or make API calls to get additional data. If you are feeling overwhelmed or behind (e.g. struggled with the Phase 1 Code Challenge), we recommend you use only the following data files:
+#### Gross Earnings Distribution
+This graph demonstrates the skewed distribution of gross earnings.
+![gross_earnings_distribution](graphs/gross_earnings_distribution.jpg)
 
-* imdb.title.basics
-* imdb.title.ratings
-* bom.movie_gross
+#### Distribution of Genres
+This graph demonstrates the popularity of each genre from the TMDB database. Drama, thriller, and comedy are the three most popular genres based on our findings. 
+![distribution_genre](graphs/Distribution_genre.png)
 
-## Deliverables
+#### Median Gross Earnings for each Genre
+Adventure, family, animation, and action movies are the genres with the largest revenues. 
+![average_gross_earnings](graphs/median_genre.PNG)
 
-There are three deliverables for this project:
+#### Mean IMDB Rating for each Genre
+This boxplot demonstrates the IMDB Ratings of each genre. War movies have the highest IMDB ratings as well as the greatest range.
+![average_rating](graphs/Average_IMDB_Ratings.png)
 
-* A **GitHub repository**
-* A **Jupyter Notebook**
-* A **non-technical presentation**
+#### Mean TMDB Popularity for each Genre
+Family movies have the highest TMDB popularity rating, followed by animation movies.
+![TMDB_popularity](graphs/Average_TMDB_Popularity.png)
 
-Review the "Project Submission & Review" page in the "Milestones Instructions" topic for instructions on creating and submitting your deliverables. Refer to the rubric associated with this assignment for specifications describing high-quality deliverables.
+#### Monthly Median Gross Earnings for each Genre
+This graph shows the median gross earnings for each genre and month.  For example, in November, animation, family, and adventure movies generated the most revenue. 
+![month_genre_gross_median](graphs/Median_Gross_Revenue.png)
 
-### Key Points
-
-* **Your analysis should yield three concrete business recommendations.** The ultimate purpose of exploratory analysis is not just to learn about the data, but to help an organization perform better. Explicitly relate your findings to business needs by recommending actions that you think the business (Microsoft) should take.
-
-* **Communicating about your work well is extremely important.** Your ability to provide value to an organization - or to land a job there - is directly reliant on your ability to communicate with them about what you have done and why it is valuable. Create a storyline your audience (the head of Microsoft's new movie studio) can follow by walking them through the steps of your process, highlighting the most important points and skipping over the rest.
-
-* **Use plenty of visualizations.** Visualizations are invaluable for exploring your data and making your findings accessible to a non-technical audience. Spotlight visuals in your presentation, but only ones that relate directly to your recommendations. Simple visuals are usually best (e.g. bar charts and line graphs), and don't forget to format them well (e.g. labels, titles).
-
-## Getting Started
-
-Please start by reviewing this assignment, the rubric at the bottom of it, and the "Project Submission & Review" page. If you have any questions, please ask your instructor ASAP.
-
-Next, we recommend you check out [the Phase 1 Project Templates and Examples repo](https://github.com/learn-co-curriculum/dsc-project-template) and use the MVP template for your project.
-
-Alternatively, you can fork [the Phase 1 Project Repository](https://github.com/learn-co-curriculum/dsc-phase-1-project), clone it locally, and work in the `student.ipynb` file. Make sure to also add and commit a PDF of your presentation to your repository with a file name of `presentation.pdf`.
-
-## Project Submission and Review
-
-Review the "Project Submission & Review" page in the "Milestones Instructions" topic to learn how to submit your project and how it will be reviewed. Your project must pass review for you to progress to the next Phase.
-
-## Summary
-
-This project will give you a valuable opportunity to develop your data science skills using real-world data. The end-of-phase projects are a critical part of the program because they give you a chance to bring together all the skills you've learned, apply them to realistic projects for a business stakeholder, practice communication skills, and get feedback to help you improve. You've got this!
+#### Runtime Through the Decades
+This graph demonstrates the runtime of a movie throughout the last 100 years.
+![runtime_decades](graphs/runtime_decades.JPG)
