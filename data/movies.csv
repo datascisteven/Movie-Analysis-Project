@@ -1,0 +1,2001 @@
+,movie,year,pg_rating,imdb_id,runtime,genre,metascore,imdb_rating,votes,gross_us
+0,Star Wars: Episode VII - The Force Awakens,(2015),PG-13,tt2488496,138 min,"
+Action, Adventure, Sci-Fi            ",80        ,7.9,"863,193",$936.66M
+1,Avengers: Endgame,(2019),PG-13,tt4154796,181 min,"
+Action, Adventure, Drama            ",78        ,8.4,"821,060",$858.37M
+2,Avatar,(2009),PG-13,tt0499549,162 min,"
+Action, Adventure, Fantasy            ",83        ,7.8,"1,121,733",$760.51M
+3,Avengers: Infinity War,(2018),PG-13,tt4154756,149 min,"
+Action, Adventure, Sci-Fi            ",68        ,8.4,"841,860",$678.82M
+4,Titanic,(1997),PG-13,tt0120338,194 min,"
+Drama, Romance            ",75        ,7.8,"1,050,317",$659.33M
+5,The Avengers,(2012),PG-13,tt0848228,143 min,"
+Action, Adventure, Sci-Fi            ",69        ,8.0,"1,264,481",$623.28M
+6,Incredibles 2,(2018),PG,tt3606756,118 min,"
+Animation, Action, Adventure            ",80        ,7.6,"251,753",$608.58M
+7,The Dark Knight,(2008),PG-13,tt0468569,152 min,"
+Action, Crime, Drama            ",84        ,9.0,"2,312,777",$534.86M
+8,Rogue One: A Star Wars Story,(2016),PG-13,tt3748528,133 min,"
+Action, Adventure, Sci-Fi            ",65        ,7.8,"558,889",$532.18M
+9,The Dark Knight Rises,(2012),PG-13,tt1345836,164 min,"
+Action, Adventure            ",78        ,8.4,"1,521,749",$448.14M
+10,E.T. the Extra-Terrestrial,(1982),PG,tt0083866,115 min,"
+Family, Sci-Fi            ",91        ,7.8,"373,646",$435.11M
+11,Toy Story 4,(2019),G,tt1979376,100 min,"
+Animation, Adventure, Comedy            ",84        ,7.8,"205,233",$434.04M
+12,The Lion King,(1994),G,tt0110357,88 min,"
+Animation, Adventure, Drama            ",88        ,8.5,"946,319",$422.78M
+13,Toy Story 3,(2010),G,tt0435761,103 min,"
+Animation, Adventure, Comedy            ",92        ,8.2,"759,809",$415.00M
+14,Captain America: Civil War,(2016),PG-13,tt3498820,147 min,"
+Action, Adventure, Sci-Fi            ",75        ,7.8,"667,295",$408.08M
+15,Jurassic Park,(1993),PG-13,tt0107290,127 min,"
+Action, Adventure, Sci-Fi            ",68        ,8.1,"870,879",$402.45M
+16,Guardians of the Galaxy Vol. 2,(2017),PG-13,tt3896198,136 min,"
+Action, Adventure, Comedy            ",67        ,7.6,"573,181",$389.81M
+17,Harry Potter and the Deathly Hallows - Part 2,(2011),PG-13,tt1201607,130 min,"
+Adventure, Drama, Fantasy            ",85        ,8.1,"767,942",$381.01M
+18,Finding Nemo,(2003),G,tt0266543,100 min,"
+Animation, Adventure, Comedy            ",90        ,8.1,"952,766",$380.84M
+19,The Lord of the Rings: The Return of the King,(2003),PG-13,tt0167260,201 min,"
+Action, Adventure, Drama            ",94        ,8.9,"1,648,942",$377.85M
+20,Deadpool,(2016),R,tt1431045,108 min,"
+Action, Adventure, Comedy            ",65        ,8.0,"906,318",$363.07M
+21,Inside Out,(I) (2015),PG,tt2096673,95 min,"
+Animation, Adventure, Comedy            ",94        ,8.1,"620,023",$356.46M
+22,The Lord of the Rings: The Two Towers,(2002),PG-13,tt0167261,179 min,"
+Action, Adventure, Drama            ",87        ,8.7,"1,491,230",$342.55M
+23,Zootopia,(2016),PG,tt2948356,108 min,"
+Animation, Adventure, Comedy            ",78        ,8.0,"436,017",$341.27M
+24,Joker,(2019),R,tt7286456,122 min,"
+Crime, Drama, Thriller            ",59        ,8.4,"950,919",$335.45M
+25,Guardians of the Galaxy,(2014),PG-13,tt2015381,121 min,"
+Action, Adventure, Comedy            ",76        ,8.0,"1,047,165",$333.18M
+26,Forrest Gump,(1994),PG-13,tt0109830,142 min,"
+Drama, Romance            ",82        ,8.8,"1,818,171",$330.25M
+27,Deadpool 2,(2018),R,tt5463162,119 min,"
+Action, Adventure, Comedy            ",66        ,7.7,"482,609",$324.59M
+28,Star Wars: Episode IV - A New Hope,(1977),PG,tt0076759,121 min,"
+Action, Adventure, Fantasy            ",90        ,8.6,"1,235,791",$322.74M
+29,Iron Man,(2008),PG-13,tt0371746,126 min,"
+Action, Adventure, Sci-Fi            ",79        ,7.9,"943,286",$318.41M
+30,Harry Potter and the Sorcerer's Stone,(2001),PG,tt0241527,152 min,"
+Adventure, Family, Fantasy            ",64        ,7.6,"661,618",$317.58M
+31,The Lord of the Rings: The Fellowship of the Ring,(2001),PG-13,tt0120737,178 min,"
+Action, Adventure, Drama            ",92        ,8.8,"1,668,153",$315.54M
+32,Thor: Ragnarok,(2017),PG-13,tt3501632,130 min,"
+Action, Adventure, Comedy            ",74        ,7.9,"591,822",$315.06M
+33,Star Wars: Episode VI - Return of the Jedi,(1983),PG,tt0086190,131 min,"
+Action, Adventure, Fantasy            ",58        ,8.3,"953,857",$309.13M
+34,Pirates of the Caribbean: Curse of the Black Pearl,(2003),PG-13,tt0325980,143 min,"
+Action, Adventure, Fantasy            ",63        ,8.0,"1,017,413",$305.41M
+35,Skyfall,(2012),PG-13,tt1074638,143 min,"
+Action, Adventure, Thriller            ",81        ,7.7,"631,848",$304.36M
+36,The Hobbit: An Unexpected Journey,(2012),PG-13,tt0903624,169 min,"
+Adventure, Fantasy            ",58        ,7.8,"759,335",$303.00M
+37,Harry Potter and the Half-Blood Prince,(2009),PG,tt0417741,153 min,"
+Action, Adventure, Family            ",78        ,7.6,"477,024",$301.96M
+38,Harry Potter and the Deathly Hallows: Part 1,(2010),PG-13,tt0926084,146 min,"
+Adventure, Family, Fantasy            ",65        ,7.7,"481,336",$295.98M
+39,The Sixth Sense,(1999),PG-13,tt0167404,107 min,"
+Drama, Mystery, Thriller            ",64        ,8.1,"914,124",$293.51M
+40,Up,(2009),PG,tt1049413,96 min,"
+Animation, Adventure, Comedy            ",88        ,8.2,"939,436",$293.00M
+41,Inception,(2010),PG-13,tt1375666,148 min,"
+Action, Adventure, Sci-Fi            ",74        ,8.8,"2,076,678",$292.58M
+42,Star Wars: Episode V - The Empire Strikes Back,(1980),PG,tt0080684,124 min,"
+Action, Adventure, Fantasy            ",82        ,8.7,"1,163,621",$290.48M
+43,Harry Potter and the Goblet of Fire,(2005),PG-13,tt0330373,157 min,"
+Adventure, Family, Fantasy            ",81        ,7.7,"550,963",$290.01M
+44,"Monsters, Inc.",(2001),G,tt0198781,92 min,"
+Animation, Adventure, Comedy            ",79        ,8.1,"818,683",$289.92M
+45,Home Alone,(1990),PG,tt0099785,103 min,"
+Comedy, Family            ",63        ,7.6,"490,388",$285.76M
+46,The Hangover,(2009),R,tt1119646,100 min,"
+Comedy            ",73        ,7.7,"719,197",$277.32M
+47,Gravity,(2013),PG-13,tt1454468,91 min,"
+Drama, Sci-Fi, Thriller            ",96        ,7.7,"771,110",$274.09M
+48,Shrek,(2001),PG,tt0126029,90 min,"
+Animation, Adventure, Comedy            ",84        ,7.8,"615,691",$267.67M
+49,Incredibles,(2004),PG,tt0317705,115 min,"
+Animation, Action, Adventure            ",90        ,8.0,"659,118",$261.44M
+50,Jaws,(1975),PG,tt0073195,124 min,"
+Adventure, Thriller            ",87        ,8.0,"544,675",$260.00M
+51,Captain America: The Winter Soldier,(2014),PG-13,tt1843866,136 min,"
+Action, Adventure, Sci-Fi            ",70        ,7.7,"739,484",$259.77M
+52,The Hobbit: The Desolation of Smaug,(2013),PG-13,tt1170358,161 min,"
+Adventure, Fantasy            ",66        ,7.8,"603,178",$258.37M
+53,The Lego Movie,(2014),PG,tt1490017,100 min,"
+Animation, Action, Adventure            ",83        ,7.7,"324,655",$257.76M
+54,Star Trek,(2009),PG-13,tt0796366,127 min,"
+Action, Adventure, Sci-Fi            ",82        ,7.9,"578,198",$257.73M
+55,The Blind Side,(2009),PG-13,tt0878804,129 min,"
+Biography, Drama, Sport            ",53        ,7.6,"294,479",$255.96M
+56,Despicable Me,(2010),PG,tt1323594,95 min,"
+Animation, Comedy, Crime            ",72        ,7.6,"502,217",$251.51M
+57,Harry Potter and the Prisoner of Azkaban,(2004),PG,tt0304141,142 min,"
+Adventure, Family, Fantasy            ",82        ,7.9,"554,899",$249.36M
+58,Moana,(I) (2016),PG,tt3521164,107 min,"
+Animation, Adventure, Comedy            ",81        ,7.6,"274,563",$248.76M
+59,Raiders of the Lost Ark,(1981),PG,tt0082971,115 min,"
+Action, Adventure            ",85        ,8.4,"886,818",$248.16M
+60,Toy Story 2,(1999),G,tt0120363,92 min,"
+Animation, Adventure, Comedy            ",88        ,7.9,"529,319",$245.85M
+61,Ghostbusters,(1984),PG,tt0087332,105 min,"
+Action, Comedy, Fantasy            ",71        ,7.8,"356,413",$238.63M
+62,X-Men: Days of Future Past,(2014),PG-13,tt1877832,132 min,"
+Action, Adventure, Sci-Fi            ",75        ,7.9,"661,944",$233.92M
+63,Cast Away,(2000),PG-13,tt0162222,143 min,"
+Adventure, Drama, Romance            ",73        ,7.8,"526,513",$233.63M
+64,The Exorcist,(1973),R,tt0070047,122 min,"
+Horror            ",81        ,8.0,"363,161",$232.91M
+65,Star Trek Into Darkness,(2013),PG-13,tt1408101,132 min,"
+Action, Adventure, Sci-Fi            ",72        ,7.7,"463,866",$228.78M
+66,The Martian,(2015),PG-13,tt3659388,144 min,"
+Adventure, Drama, Sci-Fi            ",80        ,8.0,"763,233",$228.43M
+67,The Bourne Ultimatum,(2007),PG-13,tt0440963,115 min,"
+Action, Mystery, Thriller            ",85        ,8.0,"605,672",$227.47M
+68,Logan,(2017),R,tt3315342,137 min,"
+Action, Drama, Sci-Fi            ",77        ,8.1,"651,202",$226.28M
+69,WALL-E,(2008),G,tt0910970,98 min,"
+Animation, Adventure, Family            ",95        ,8.4,"1,003,790",$223.81M
+70,Big Hero 6,(2014),PG,tt2245084,102 min,"
+Animation, Action, Adventure            ",74        ,7.8,"412,390",$222.53M
+71,Mission: Impossible - Fallout,(2018),PG-13,tt4912910,147 min,"
+Action, Adventure, Thriller            ",86        ,7.7,"292,713",$220.16M
+72,Beauty And The Beast,(1991),G,tt0101414,84 min,"
+Animation, Family, Fantasy            ",95        ,8.0,"418,129",$218.97M
+73,How to Train Your Dragon,(2010),PG,tt0892769,98 min,"
+Animation, Action, Adventure            ",75        ,8.1,"669,262",$217.58M
+74,Aladdin,(1992),G,tt0103639,90 min,"
+Animation, Adventure, Comedy            ",86        ,8.0,"374,928",$217.35M
+75,Saving Private Ryan,(1998),R,tt0120815,169 min,"
+Drama, War            ",91        ,8.6,"1,241,046",$216.54M
+76,Bohemian Rhapsody,(2018),PG-13,tt1727824,134 min,"
+Biography, Drama, Music            ",49        ,8.0,"454,332",$216.43M
+77,A Star Is Born,(2018),R,tt1517451,136 min,"
+Drama, Music, Romance            ",88        ,7.6,"337,111",$215.29M
+78,300,(2006),R,tt0416449,117 min,"
+Action, Drama            ",52        ,7.6,"734,499",$210.61M
+79,Back to the Future,(1985),PG,tt0088763,116 min,"
+Adventure, Comedy, Sci-Fi            ",87        ,8.5,"1,062,788",$210.61M
+80,Coco,(I) (2017),PG,tt2380307,105 min,"
+Animation, Adventure, Family            ",81        ,8.4,"388,762",$209.73M
+81,Sherlock Holmes,(2009),PG-13,tt0988045,128 min,"
+Action, Adventure, Mystery            ",57        ,7.6,"584,560",$209.03M
+82,Dawn of the Planet of the Apes,(2014),PG-13,tt2103281,130 min,"
+Action, Adventure, Drama            ",79        ,7.6,"412,417",$208.55M
+83,Batman Begins,(2005),PG-13,tt0372784,140 min,"
+Action, Adventure            ",70        ,8.2,"1,312,835",$206.85M
+84,Ratatouille,(2007),G,tt0382932,111 min,"
+Animation, Adventure, Comedy            ",96        ,8.0,"644,215",$206.45M
+85,Terminator 2: Judgment Day,(1991),R,tt0103064,137 min,"
+Action, Sci-Fi            ",75        ,8.5,"998,638",$204.84M
+86,Tangled,(2010),PG,tt0398286,100 min,"
+Animation, Adventure, Comedy            ",71        ,7.7,"407,322",$200.82M
+87,Gone with the Wind,(1939),Passed,tt0031381,238 min,"
+Drama, History, Romance            ",97        ,8.1,"291,071",$198.68M
+88,Indiana Jones and The Last Crusade,(1989),PG-13,tt0097576,127 min,"
+Action, Adventure            ",65        ,8.2,"694,362",$197.17M
+89,Toy Story,(1995),G,tt0114709,81 min,"
+Animation, Adventure, Comedy            ",95        ,8.3,"891,080",$191.80M
+90,Spider-Man: Into the Spider-Verse,(2018),PG,tt4633694,117 min,"
+Animation, Action, Adventure            ",87        ,8.4,"379,677",$190.24M
+91,Wreck-It Ralph,(2012),PG,tt1772341,101 min,"
+Animation, Adventure, Comedy            ",72        ,7.7,"381,450",$189.42M
+92,Dunkirk,(2017),PG-13,tt5013056,106 min,"
+Action, Drama, History            ",94        ,7.8,"558,627",$188.37M
+93,Interstellar,(2014),PG-13,tt0816692,169 min,"
+Adventure, Drama, Sci-Fi            ",74        ,8.6,"1,521,545",$188.02M
+94,Gladiator,(2000),R,tt0172495,155 min,"
+Action, Adventure, Drama            ",67        ,8.5,"1,346,622",$187.71M
+95,Dances with Wolves,(1990),PG-13,tt0099348,181 min,"
+Adventure, Drama, Western            ",72        ,8.0,"241,089",$184.21M
+96,The Fugitive,(1993),PG-13,tt0106977,130 min,"
+Action, Crime, Drama            ",87        ,7.8,"268,497",$183.88M
+97,The Revenant,(2015),R,tt1663202,156 min,"
+Action, Adventure, Drama            ",76        ,8.0,"709,085",$183.64M
+98,Ocean's Eleven,(2001),PG-13,tt0240772,116 min,"
+Crime, Thriller            ",74        ,7.7,"518,400",$183.42M
+99,Rain Man,(1988),R,tt0095953,133 min,"
+Drama            ",65        ,8.0,"474,374",$178.80M
+100,How to Train Your Dragon 2,(2014),PG,tt1646971,102 min,"
+Animation, Action, Adventure            ",76        ,7.8,"306,626",$177.00M
+101,The Bourne Supremacy,(2004),PG-13,tt0372183,108 min,"
+Action, Mystery, Thriller            ",73        ,7.7,"435,859",$176.24M
+102,Get Out,(I) (2017),R,tt5052448,104 min,"
+Horror, Mystery, Thriller            ",85        ,7.7,"495,971",$176.04M
+103,Apollo 13,(I) (1995),PG,tt0112384,140 min,"
+Adventure, Drama, History            ",77        ,7.6,"270,306",$173.84M
+104,The Matrix,(1999),R,tt0133093,136 min,"
+Action, Sci-Fi            ",73        ,8.7,"1,683,677",$171.48M
+105,True Grit,(2010),PG-13,tt1403865,110 min,"
+Drama, Western            ",80        ,7.6,"312,868",$171.24M
+106,A Beautiful Mind,(2001),PG-13,tt0268978,135 min,"
+Biography, Drama            ",72        ,8.2,"852,524",$170.74M
+107,The Help,(2011),PG-13,tt1454029,146 min,"
+Drama            ",62        ,8.0,"430,104",$169.71M
+108,Hidden Figures,(2016),PG,tt4846340,127 min,"
+Biography, Drama, History            ",74        ,7.8,"202,017",$169.61M
+109,Gone Girl,(2014),R,tt2267998,149 min,"
+Drama, Mystery, Thriller            ",79        ,8.1,"864,080",$167.77M
+110,Casino Royale,(2006),PG-13,tt0381061,144 min,"
+Action, Adventure, Thriller            ",80        ,8.0,"583,691",$167.45M
+111,Knives Out,(2019),PG-13,tt8946378,130 min,"
+Comedy, Crime, Drama            ",82        ,7.9,"463,611",$165.36M
+112,Catch Me If You Can,(2002),PG-13,tt0264464,141 min,"
+Biography, Crime, Drama            ",75        ,8.1,"838,146",$164.62M
+113,The Pursuit of Happyness,(2006),PG-13,tt0454921,117 min,"
+Biography, Drama            ",64        ,8.0,"450,765",$163.57M
+114,The Sound of Music,(1965),G,tt0059742,172 min,"
+Biography, Drama, Family            ",63        ,8.0,"207,723",$163.21M
+115,Django Unchained,(2012),R,tt1853728,165 min,"
+Drama, Western            ",81        ,8.4,"1,364,478",$162.81M
+116,Straight Outta Compton,(2015),R,tt1398426,147 min,"
+Biography, Drama, History            ",72        ,7.8,"179,785",$161.20M
+117,The Sting,(1973),PG,tt0070735,129 min,"
+Comedy, Crime, Drama            ",83        ,8.3,"242,352",$159.60M
+118,1917,(2019),R,tt8579674,119 min,"
+Drama, Thriller, War            ",78        ,8.3,"434,617",$159.23M
+119,Who Framed Roger Rabbit,(1988),PG,tt0096438,104 min,"
+Animation, Adventure, Comedy            ",83        ,7.7,"182,480",$156.45M
+120,Mad Max: Fury Road,(2015),R,tt1392190,120 min,"
+Action, Adventure, Sci-Fi            ",90        ,8.1,"886,078",$154.06M
+121,La La Land,(2016),PG-13,tt3783958,128 min,"
+Comedy, Drama, Music            ",94        ,8.0,"509,044",$151.10M
+122,As Good as It Gets,(1997),PG-13,tt0119822,139 min,"
+Comedy, Drama, Romance            ",67        ,7.7,"276,625",$148.48M
+123,Gran Torino,(2008),R,tt1205489,116 min,"
+Drama            ",72        ,8.1,"722,544",$148.10M
+124,X: First Class,(2011),PG-13,tt1270798,131 min,"
+Action, Adventure, Sci-Fi            ",65        ,7.7,"647,133",$146.41M
+125,Taken,(I) (2008),PG-13,tt0936501,90 min,"
+Action, Thriller            ",51        ,7.8,"565,869",$145.00M
+126,Once Upon a Time... In Hollywood,(2019),R,tt7131622,161 min,"
+Comedy, Drama            ",83        ,7.6,"558,292",$142.50M
+127,The Jungle Book,(1967),G,tt0061852,78 min,"
+Animation, Adventure, Family            ",65        ,7.6,"166,957",$141.84M
+128,A Few Good Men,(1992),R,tt0104257,138 min,"
+Drama, Thriller            ",62        ,7.7,"236,310",$141.34M
+129,Slumdog Millionaire,(2008),R,tt1010048,120 min,"
+Drama, Romance            ",84        ,8.0,"800,749",$141.32M
+130,The King's Speech,(2010),R,tt1504320,118 min,"
+Biography, Drama, History            ",88        ,8.0,"641,448",$138.80M
+131,Platoon,(1986),R,tt0091763,120 min,"
+Drama, War            ",92        ,8.1,"382,482",$138.53M
+132,Good Will Hunting,(1997),R,tt0119217,126 min,"
+Drama, Romance            ",70        ,8.3,"865,441",$138.43M
+133,The Green Mile,(1999),R,tt0120689,189 min,"
+Crime, Drama, Fantasy            ",61        ,8.6,"1,153,309",$136.80M
+134,Argo,(2012),R,tt1024648,120 min,"
+Biography, Drama, Thriller            ",86        ,7.7,"574,178",$136.03M
+135,The Godfather,(1972),R,tt0068646,175 min,"
+Crime, Drama            ",100        ,9.2,"1,628,373",$134.97M
+136,Wonder,(I) (2017),PG,tt2543472,113 min,"
+Drama, Family            ",66        ,8.0,"143,371",$132.42M
+137,The Departed,(2006),R,tt0407887,151 min,"
+Crime, Drama, Thriller            ",85        ,8.5,"1,194,986",$132.38M
+138,Silver Linings Playbook,(2012),R,tt1045658,122 min,"
+Comedy, Drama, Romance            ",81        ,7.7,"663,746",$132.09M
+139,Close Encounters of the Third Kind,(1977),PG,tt0075860,138 min,"
+Drama, Sci-Fi            ",90        ,7.6,"185,570",$132.09M
+140,Minority Report,(2002),PG-13,tt0181689,145 min,"
+Action, Crime, Mystery            ",80        ,7.6,"509,774",$132.07M
+141,The Silence of the Lambs,(1991),R,tt0102926,118 min,"
+Crime, Drama, Thriller            ",85        ,8.6,"1,276,668",$130.74M
+142,American Gangster,(2007),R,tt0765429,157 min,"
+Biography, Crime, Drama            ",76        ,7.8,"393,795",$130.16M
+143,American Beauty,(1999),R,tt0169547,122 min,"
+Drama            ",84        ,8.3,"1,073,105",$130.10M
+144,Kingsman: The Secret Service,(2014),R,tt2802144,129 min,"
+Action, Adventure, Comedy            ",60        ,7.7,"592,071",$128.26M
+145,"Crouching Tiger, Hidden Dragon",(2000),PG-13,tt0190332,120 min,"
+Action, Adventure, Fantasy            ",94        ,7.8,"253,875",$128.08M
+146,Shutter Island,(2010),R,tt1130884,138 min,"
+Mystery, Thriller            ",63        ,8.2,"1,136,596",$128.01M
+147,The Curious Case of Benjamin Button,(2008),PG-13,tt0421715,166 min,"
+Drama, Fantasy, Romance            ",70        ,7.8,"591,468",$127.51M
+148,The Truman Show,(1998),PG,tt0120382,103 min,"
+Comedy, Drama            ",90        ,8.1,"944,513",$125.62M
+149,Life of Pi,(2012),PG,tt0454876,127 min,"
+Adventure, Drama, Fantasy            ",79        ,7.9,"582,482",$124.99M
+150,The Fault in Our Stars,(2014),PG-13,tt2582846,126 min,"
+Drama, Romance            ",69        ,7.7,"345,414",$124.87M
+151,The Bourne Identity,(2002),PG-13,tt0258463,119 min,"
+Action, Mystery, Thriller            ",68        ,7.9,"510,160",$121.66M
+152,Mulan,(1998),G,tt0120762,88 min,"
+Animation, Adventure, Family            ",71        ,7.6,"257,887",$120.62M
+153,Inglourious Basterds,(2009),R,tt0361748,153 min,"
+Adventure, Drama, War            ",69        ,8.3,"1,274,250",$120.54M
+154,Walk the Line,(2005),PG-13,tt0358273,136 min,"
+Biography, Drama, Music            ",72        ,7.8,"234,879",$119.52M
+155,Blazing Saddles,(1974),R,tt0071230,93 min,"
+Comedy, Western            ",73        ,7.7,"126,476",$119.50M
+156,On Golden Pond,(1981),PG,tt0082846,109 min,"
+Drama            ",68        ,7.6,"27,750",$119.29M
+157,Back To The Future II,(1989),PG,tt0096874,108 min,"
+Adventure, Comedy, Sci-Fi            ",57        ,7.8,"483,385",$118.50M
+158,Ford v Ferrari,(2019),PG-13,tt1950186,152 min,"
+Action, Biography, Drama            ",81        ,8.1,"295,983",$117.62M
+159,Rocky,(1976),PG,tt0075148,120 min,"
+Drama, Sport            ",70        ,8.1,"520,513",$117.24M
+160,The Wolf of Wall Street,(2013),R,tt0993846,180 min,"
+Biography, Crime, Drama            ",75        ,8.2,"1,196,714",$116.90M
+161,Remember the Titans,(2000),PG,tt0210945,113 min,"
+Biography, Drama, Sport            ",48        ,7.8,"198,809",$115.65M
+162,District 9,(2009),R,tt1136608,112 min,"
+Action, Sci-Fi, Thriller            ",81        ,7.9,"639,406",$115.65M
+163,One Flew Over the Cuckoo's Nest,(1975),R,tt0073486,133 min,"
+Drama            ",83        ,8.7,"921,481",$112.00M
+164,Doctor Zhivago,(1965),PG-13,tt0059113,197 min,"
+Drama, Romance, War            ",69        ,8.0,"70,142",$111.72M
+165,The Little Mermaid,(1989),G,tt0097757,83 min,"
+Animation, Family, Fantasy            ",88        ,7.6,"238,537",$111.54M
+166,The Last Samurai,(2003),R,tt0325710,154 min,"
+Action, Drama            ",55        ,7.7,"401,185",$111.11M
+167,Creed,(II) (2015),PG-13,tt3076658,133 min,"
+Drama, Sport            ",82        ,7.6,"248,465",$109.77M
+168,Black Hawk Down,(2001),R,tt0265086,144 min,"
+Drama, History, War            ",74        ,7.7,"365,186",$108.64M
+169,Little Women,(2019),PG,tt3281548,135 min,"
+Drama, Romance            ",91        ,7.8,"145,776",$108.10M
+170,Pulp Fiction,(1994),R,tt0110912,154 min,"
+Crime, Drama            ",94        ,8.9,"1,834,079",$107.93M
+171,Baby Driver,(2017),R,tt3890160,113 min,"
+Action, Crime, Drama            ",86        ,7.6,"442,137",$107.83M
+172,Watchmen,(2009),R,tt0409459,162 min,"
+Action, Drama, Mystery            ",56        ,7.6,"502,170",$107.51M
+173,Captain Phillips,(2013),PG-13,tt1535109,134 min,"
+Adventure, Biography, Crime            ",82        ,7.8,"422,693",$107.10M
+174,Black Swan,(2010),R,tt0947798,108 min,"
+Drama, Thriller            ",79        ,8.0,"701,801",$106.95M
+175,Kramer vs. Kramer,(1979),PG,tt0079417,105 min,"
+Drama            ",77        ,7.8,"133,886",$106.26M
+176,The Graduate,(1967),PG,tt0061722,106 min,"
+Comedy, Drama, Romance            ",83        ,8.0,"254,430",$104.95M
+177,Road to Perdition,(2002),R,tt0257044,117 min,"
+Crime, Drama, Thriller            ",72        ,7.7,"247,644",$104.45M
+178,The Girl with the Dragon Tattoo,(2011),R,tt1568346,158 min,"
+Crime, Drama, Mystery            ",71        ,7.8,"424,947",$102.52M
+179,Butch Cassidy and the Sundance Kid,(1969),PG,tt0064115,110 min,"
+Biography, Crime, Drama            ",66        ,8.0,"202,315",$102.31M
+180,Mary Poppins,(1964),G,tt0058331,139 min,"
+Comedy, Family, Fantasy            ",88        ,7.8,"158,578",$102.27M
+181,Unforgiven,(1992),R,tt0105695,130 min,"
+Drama, Western            ",85        ,8.2,"377,255",$101.16M
+182,Arrival,(II) (2016),PG-13,tt2543164,116 min,"
+Drama, Sci-Fi            ",81        ,7.9,"597,137",$100.55M
+183,Million Dollar Baby,(2004),PG-13,tt0405159,132 min,"
+Drama, Sport            ",86        ,8.1,"638,134",$100.49M
+184,Edge of Tomorrow,(2014),PG-13,tt1631867,113 min,"
+Action, Adventure, Sci-Fi            ",71        ,7.9,"602,074",$100.21M
+185,Se7en,(1995),R,tt0114369,127 min,"
+Crime, Drama, Mystery            ",65        ,8.6,"1,452,269",$100.13M
+186,Die Hard with a Vengeance,(1995),R,tt0112864,128 min,"
+Action, Adventure, Thriller            ",58        ,7.6,"365,077",$100.01M
+187,The Color Purple,(1985),PG-13,tt0088939,154 min,"
+Drama            ",78        ,7.8,"78,645",$98.47M
+188,The Social Network,(2010),PG-13,tt1285016,120 min,"
+Biography, Drama            ",95        ,7.7,"627,889",$96.96M
+189,Schindler's List,(1993),R,tt0108052,195 min,"
+Biography, Drama, History            ",94        ,8.9,"1,218,144",$96.90M
+190,The Others,(2001),PG-13,tt0230600,104 min,"
+Horror, Mystery, Thriller            ",74        ,7.6,"338,702",$96.52M
+191,Dead Poets Society,(1989),PG,tt0097165,128 min,"
+Comedy, Drama            ",79        ,8.1,"428,050",$95.86M
+192,The Ten Commandments,(1956),G,tt0049833,220 min,"
+Adventure, Drama            ",--,7.9,"63,730",$93.74M
+193,The Fighter,(I) (2010),R,tt0964517,116 min,"
+Biography, Drama, Sport            ",79        ,7.8,"341,821",$93.62M
+194,When Harry Met Sally...,(1989),R,tt0098635,95 min,"
+Comedy, Drama, Romance            ",76        ,7.6,"196,612",$92.82M
+195,Blade Runner 2049,(2017),R,tt1856101,164 min,"
+Action, Drama, Mystery            ",81        ,8.0,"464,845",$92.05M
+196,The Imitation Game,(2014),PG-13,tt2084970,114 min,"
+Biography, Drama, Thriller            ",73        ,8.0,"688,286",$91.13M
+197,Mystic River,(2003),R,tt0327056,138 min,"
+Crime, Drama, Mystery            ",84        ,7.9,"420,612",$90.14M
+198,Inside Man,(2006),R,tt0454848,129 min,"
+Crime, Drama, Mystery            ",76        ,7.6,"341,397",$88.51M
+199,Young Frankenstein,(1974),PG,tt0072431,106 min,"
+Comedy            ",80        ,8.0,"143,856",$86.30M
+200,Aliens,(1986),R,tt0090605,137 min,"
+Action, Adventure, Sci-Fi            ",84        ,8.3,"654,722",$85.16M
+201,Green Book,(2018),PG-13,tt6966692,130 min,"
+Biography, Comedy, Drama            ",69        ,8.2,"383,880",$85.08M
+202,Apocalypse Now,(1979),R,tt0078788,147 min,"
+Drama, Mystery, War            ",94        ,8.4,"608,758",$83.47M
+203,Airplane!,(1980),PG,tt0080339,88 min,"
+Comedy            ",78        ,7.7,"215,597",$83.40M
+204,Brokeback Mountain,(2005),R,tt0388795,134 min,"
+Drama, Romance            ",87        ,7.7,"324,194",$83.04M
+205,Die Hard,(1988),R,tt0095016,132 min,"
+Action, Thriller            ",72        ,8.2,"795,435",$83.01M
+206,Fried Green Tomatoes,(1991),PG-13,tt0101921,130 min,"
+Drama            ",64        ,7.7,"67,170",$82.42M
+207,The Notebook,(2004),PG-13,tt0332280,123 min,"
+Drama, Romance            ",53        ,7.8,"522,647",$81.00M
+208,Fiddler on the Roof,(1971),G,tt0067093,181 min,"
+Drama, Family, Musical            ",67        ,8.0,"39,629",$80.50M
+209,Star Trek II: The Wrath of Khan,(1982),PG,tt0084726,113 min,"
+Action, Adventure, Sci-Fi            ",67        ,7.7,"112,989",$78.91M
+210,Alien,(1979),R,tt0078748,117 min,"
+Horror, Sci-Fi            ",89        ,8.4,"790,850",$78.90M
+211,The Naked Gun: From the Files of Police Squad!,(1988),PG-13,tt0095705,85 min,"
+Comedy, Crime            ",76        ,7.6,"153,506",$78.76M
+212,Man on Fire,(2004),R,tt0328107,146 min,"
+Action, Crime, Drama            ",47        ,7.7,"330,624",$77.91M
+213,Philadelphia,(1993),PG-13,tt0107818,125 min,"
+Drama            ",66        ,7.7,"225,005",$77.32M
+214,The Muppet Movie,(1979),G,tt0079588,95 min,"
+Adventure, Comedy, Family            ",74        ,7.6,"32,927",$76.66M
+215,Training Day,(2001),R,tt0139654,122 min,"
+Crime, Drama, Thriller            ",69        ,7.7,"392,180",$76.63M
+216,Fantasia,(1940),G,tt0032455,125 min,"
+Animation, Family, Fantasy            ",96        ,7.7,"88,916",$76.41M
+217,The Untouchables,(1987),R,tt0094226,119 min,"
+Crime, Drama, Thriller            ",79        ,7.9,"283,021",$76.27M
+218,Moneyball,(2011),PG-13,tt1210166,133 min,"
+Biography, Drama, Sport            ",87        ,7.6,"371,617",$75.61M
+219,Braveheart,(1995),R,tt0112573,178 min,"
+Biography, Drama, History            ",68        ,8.3,"962,084",$75.60M
+220,Zombieland,(2009),R,tt1156398,88 min,"
+Adventure, Comedy, Fantasy            ",73        ,7.6,"521,344",$75.59M
+221,The Last of the Mohicans,(1992),R,tt0104691,112 min,"
+Action, Adventure, Drama            ",76        ,7.7,"151,353",$75.51M
+222,Ray,(I) (2004),PG-13,tt0350258,152 min,"
+Biography, Drama, Music            ",73        ,7.7,"138,809",$75.33M
+223,Coraline,(2009),PG,tt0327597,100 min,"
+Animation, Drama, Family            ",80        ,7.7,"198,443",$75.29M
+224,The Nightmare Before Christmas,(1993),PG,tt0107688,76 min,"
+Animation, Family, Fantasy            ",82        ,8.0,"300,917",$75.08M
+225,Ben-Hur,(1959),G,tt0052618,212 min,"
+Adventure, Drama, History            ",90        ,8.1,"220,164",$74.70M
+226,No Country for Old Men,(2007),R,tt0477348,122 min,"
+Crime, Drama, Thriller            ",91        ,8.1,"860,889",$74.28M
+227,Sin City,(2005),R,tt0401792,124 min,"
+Crime, Thriller            ",74        ,8.0,"739,239",$74.10M
+228,Bridge of Spies,(2015),PG-13,tt3682448,142 min,"
+Drama, History, Thriller            ",81        ,7.6,"288,744",$72.31M
+229,My Fair Lady,(1964),G,tt0058385,170 min,"
+Drama, Family, Musical            ",95        ,7.8,"86,808",$72.00M
+230,The Bridges of Madison County,(1995),PG-13,tt0112579,135 min,"
+Drama, Romance            ",69        ,7.6,"73,507",$71.52M
+231,Groundhog Day,(1993),PG,tt0107048,101 min,"
+Comedy, Fantasy, Romance            ",72        ,8.0,"581,574",$70.91M
+232,All the President's Men,(1976),PG,tt0074119,138 min,"
+Biography, Drama, History            ",84        ,7.9,"103,676",$70.60M
+233,V for Vendetta,(2005),R,tt0434409,132 min,"
+Action, Drama, Sci-Fi            ",62        ,8.2,"1,035,933",$70.51M
+234,JFK,(1991),R,tt0102138,189 min,"
+Drama, History, Thriller            ",72        ,8.0,"142,594",$70.41M
+235,The Big Short,(2015),R,tt1596363,130 min,"
+Biography, Comedy, Drama            ",81        ,7.8,"367,533",$70.26M
+236,Ferris Bueller's Day Off,(1986),PG-13,tt0091042,103 min,"
+Comedy            ",61        ,7.8,"322,298",$70.14M
+237,Kill Bill: Vol. 1,(2003),R,tt0266697,111 min,"
+Action, Crime, Drama            ",69        ,8.1,"1,004,428",$70.10M
+238,Seven Pounds,(2008),PG-13,tt0814314,123 min,"
+Drama            ",36        ,7.6,"287,376",$69.95M
+239,Heat,(1995),R,tt0113277,170 min,"
+Crime, Drama, Thriller            ",76        ,8.2,"579,952",$67.44M
+240,Hacksaw Ridge,(2016),R,tt2119532,139 min,"
+Biography, Drama, History            ",71        ,8.1,"438,861",$67.21M
+241,The Godfather Part III,(1990),R,tt0099674,162 min,"
+Crime, Drama            ",60        ,7.6,"361,404",$66.67M
+242,Big Fish,(2003),PG-13,tt0319061,125 min,"
+Adventure, Drama, Fantasy            ",58        ,8.0,"416,297",$66.26M
+243,Kill Bill: Volume 2,(2004),R,tt0378194,137 min,"
+Action, Crime, Thriller            ",83        ,8.0,"686,343",$66.21M
+244,Lethal Weapon,(1987),R,tt0093409,109 min,"
+Action, Crime, Thriller            ",68        ,7.6,"237,559",$65.21M
+245,L.A. Confidential,(1997),R,tt0119488,138 min,"
+Crime, Drama, Mystery            ",90        ,8.2,"533,825",$64.62M
+246,Scent of a Woman,(1992),R,tt0105323,156 min,"
+Drama            ",59        ,8.0,"265,309",$63.90M
+247,The Fifth Element,(1997),PG-13,tt0119116,126 min,"
+Action, Adventure, Sci-Fi            ",52        ,7.7,"435,317",$63.54M
+248,Patton,(1970),GP,tt0066206,172 min,"
+Biography, Drama, War            ",91        ,7.9,"93,939",$61.70M
+249,Cinderella Man,(2005),PG-13,tt0352248,144 min,"
+Biography, Drama, History            ",69        ,8.0,"176,588",$61.65M
+250,The Goonies,(1985),PG,tt0089218,114 min,"
+Adventure, Comedy, Family            ",62        ,7.8,"245,473",$61.50M
+251,Misery,(1990),R,tt0100157,107 min,"
+Drama, Thriller            ",75        ,7.8,"185,542",$61.28M
+252,Prisoners,(2013),R,tt1392214,153 min,"
+Crime, Drama, Mystery            ",70        ,8.1,"604,471",$61.00M
+253,Little Miss Sunshine,(2006),R,tt0449059,101 min,"
+Comedy, Drama            ",80        ,7.8,"441,013",$59.89M
+254,Predator,(1987),R,tt0093773,107 min,"
+Action, Adventure, Sci-Fi            ",45        ,7.8,"372,517",$59.74M
+255,The Grand Budapest Hotel,(2014),R,tt2278388,99 min,"
+Adventure, Comedy, Crime            ",88        ,8.1,"711,445",$59.10M
+256,The Butterfly Effect,(2004),R,tt0289879,113 min,"
+Drama, Sci-Fi, Thriller            ",30        ,7.6,"452,599",$57.94M
+257,Life Is Beautiful,(1997),PG-13,tt0118799,116 min,"
+Comedy, Drama, Romance            ",59        ,8.6,"626,485",$57.60M
+258,Boyz n the Hood,(1991),R,tt0101507,112 min,"
+Crime, Drama            ",76        ,7.8,"126,643",$57.50M
+259,Blood Diamond,(2006),R,tt0450259,143 min,"
+Adventure, Drama, Thriller            ",64        ,8.0,"501,128",$57.37M
+260,The Godfather: Part II,(1974),R,tt0071562,202 min,"
+Crime, Drama            ",90        ,9.0,"1,134,978",$57.30M
+261,The Blues Brothers,(1980),R,tt0080455,133 min,"
+Action, Adventure, Comedy            ",60        ,7.9,"183,777",$57.23M
+262,12 Monkeys,(1995),R,tt0114746,129 min,"
+Mystery, Sci-Fi, Thriller            ",74        ,8.0,"580,072",$57.14M
+263,2001: A Space Odyssey,(1968),G,tt0062622,149 min,"
+Adventure, Sci-Fi            ",84        ,8.3,"605,833",$56.95M
+264,Midnight in Paris,(2011),PG-13,tt1605783,94 min,"
+Comedy, Fantasy, Romance            ",81        ,7.7,"389,478",$56.82M
+265,Guess Who's Coming to Dinner,(1967),Approved,tt0061735,108 min,"
+Comedy, Drama            ",63        ,7.8,"39,867",$56.70M
+266,12 Years a Slave,(2013),R,tt2024544,134 min,"
+Biography, Drama, History            ",96        ,8.1,"643,236",$56.67M
+267,Tombstone,(1993),R,tt0108358,130 min,"
+Action, Biography, Drama            ",50        ,7.8,"127,299",$56.51M
+268,Edward Scissorhands,(1990),PG-13,tt0099487,105 min,"
+Drama, Fantasy, Romance            ",74        ,7.9,"448,672",$56.36M
+269,Primal Fear,(1996),R,tt0117381,129 min,"
+Crime, Drama, Mystery            ",47        ,7.7,"190,641",$56.12M
+270,Saw,(2004),R,tt0387564,103 min,"
+Horror, Mystery, Thriller            ",46        ,7.6,"380,061",$56.00M
+271,Ordinary People,(1980),R,tt0081283,124 min,"
+Drama            ",86        ,7.7,"47,295",$54.80M
+272,Crash,(I) (2004),R,tt0375679,112 min,"
+Crime, Drama, Thriller            ",66        ,7.7,"420,299",$54.58M
+273,"Three Billboards Outside Ebbing, Missouri",(2017),R,tt5027774,115 min,"
+Comedy, Crime, Drama            ",88        ,8.1,"436,163",$54.51M
+274,The Count of Monte Cristo,(2002),PG-13,tt0245844,131 min,"
+Action, Adventure, Drama            ",61        ,7.8,"129,332",$54.23M
+275,The Hateful Eight,(2015),R,tt3460252,168 min,"
+Crime, Drama, Mystery            ",68        ,7.8,"520,099",$54.12M
+276,The Verdict,(1982),R,tt0084855,129 min,"
+Drama            ",77        ,7.7,"36,248",$54.00M
+277,Ying xiong,(2002),PG-13,tt0299977,120 min,"
+Action, Adventure, History            ",85        ,7.9,"174,259",$53.71M
+278,3:10 to Yuma,(2007),R,tt0381849,122 min,"
+Action, Crime, Drama            ",76        ,7.7,"289,571",$53.61M
+279,Parasite,(2019),R,tt6751668,132 min,"
+Comedy, Drama, Thriller            ",96        ,8.6,"565,186",$53.37M
+280,Papillon,(1973),R,tt0070511,151 min,"
+Biography, Crime, Drama            ",58        ,8.0,"121,899",$53.27M
+281,The Prestige,(2006),PG-13,tt0482571,130 min,"
+Drama, Mystery, Sci-Fi            ",66        ,8.5,"1,195,533",$53.09M
+282,Blow,(2001),R,tt0221027,124 min,"
+Biography, Crime, Drama            ",52        ,7.6,"241,367",$52.99M
+283,My Cousin Vinny,(1992),R,tt0104952,120 min,"
+Comedy, Crime            ",68        ,7.6,"107,735",$52.93M
+284,Gandhi,(1982),PG,tt0083987,191 min,"
+Biography, Drama, History            ",79        ,8.0,"218,110",$52.77M
+285,The Royal Tenenbaums,(2001),R,tt0265666,110 min,"
+Comedy, Drama            ",76        ,7.6,"267,694",$52.36M
+286,Stand By Me,(1986),R,tt0092005,89 min,"
+Adventure, Drama            ",75        ,8.1,"364,614",$52.29M
+287,Awakenings,(1990),PG-13,tt0099077,121 min,"
+Biography, Drama            ",74        ,7.8,"126,018",$52.10M
+288,"South Park: Bigger, Longer & Uncut",(1999),R,tt0158983,81 min,"
+Animation, Comedy, Fantasy            ",73        ,7.7,"192,388",$52.04M
+289,Amadeus,(1984),R,tt0086879,160 min,"
+Biography, Drama, History            ",88        ,8.3,"370,295",$51.97M
+290,Lion,(2016),PG-13,tt3741834,118 min,"
+Biography, Drama            ",69        ,8.0,"215,106",$51.74M
+291,Finding Neverland,(2004),PG,tt0308644,106 min,"
+Biography, Drama, Family            ",67        ,7.6,"199,030",$51.68M
+292,Enemy at the Gates,(2001),R,tt0215750,131 min,"
+Drama, History, War            ",53        ,7.6,"244,436",$51.40M
+293,Goldfinger,(1964),PG,tt0058150,110 min,"
+Action, Adventure, Thriller            ",87        ,7.7,"174,686",$51.08M
+294,Atonement,(2007),R,tt0783233,123 min,"
+Drama, Mystery, Romance            ",85        ,7.8,"252,579",$50.93M
+295,Apocalypto,(2006),R,tt0472043,139 min,"
+Action, Adventure, Drama            ",68        ,7.8,"291,741",$50.87M
+296,The Hurricane,(1999),R,tt0174856,146 min,"
+Biography, Drama, Sport            ",74        ,7.6,"91,835",$50.67M
+297,Dog Day Afternoon,(1975),R,tt0072890,125 min,"
+Biography, Crime, Drama            ",86        ,8.0,"236,463",$50.00M
+298,"Planes, Trains and Automobiles",(1987),R,tt0093748,93 min,"
+Comedy, Drama            ",72        ,7.6,"125,167",$49.53M
+299,Sleepers,(1996),R,tt0117665,147 min,"
+Crime, Drama, Thriller            ",49        ,7.6,"187,261",$49.10M
+300,The Deer Hunter,(1978),R,tt0077416,183 min,"
+Drama, War            ",86        ,8.1,"312,645",$48.98M
+301,The Game,(1997),R,tt0119174,129 min,"
+Drama, Mystery, Thriller            ",61        ,7.8,"346,409",$48.32M
+302,Malcolm X,(1992),PG-13,tt0104797,202 min,"
+Biography, Drama, History            ",73        ,7.7,"86,352",$48.17M
+303,Kick-Ass,(2010),R,tt1250777,117 min,"
+Action, Comedy, Crime            ",66        ,7.6,"525,454",$48.07M
+304,Kubo and the Two Strings,(2016),PG,tt4302938,101 min,"
+Animation, Action, Adventure            ",84        ,7.8,"118,434",$48.02M
+305,Manchester by the Sea,(2016),R,tt4034228,137 min,"
+Drama            ",96        ,7.8,"248,465",$47.70M
+306,First Blood,(1982),R,tt0083944,93 min,"
+Action, Adventure            ",61        ,7.7,"227,289",$47.21M
+307,Halloween,(1978),R,tt0077651,91 min,"
+Horror, Thriller            ",87        ,7.7,"233,786",$47.00M
+308,Sicario,(2015),R,tt3397884,121 min,"
+Action, Crime, Drama            ",82        ,7.6,"373,067",$46.89M
+309,Goodfellas,(1990),R,tt0099685,146 min,"
+Biography, Crime, Drama            ",90        ,8.7,"1,025,783",$46.84M
+310,Full Metal Jacket,(1987),R,tt0093058,116 min,"
+Drama, War            ",76        ,8.3,"677,648",$46.36M
+311,The Breakfast Club,(1985),R,tt0088847,97 min,"
+Comedy, Drama            ",66        ,7.8,"358,204",$45.88M
+312,Manhattan,(1979),R,tt0079522,96 min,"
+Comedy, Drama, Romance            ",83        ,7.9,"131,724",$45.70M
+313,Scarface,(1983),R,tt0086250,170 min,"
+Crime, Drama            ",65        ,8.3,"744,303",$45.60M
+314,"O Brother, Where Art Thou?",(2000),PG-13,tt0190590,107 min,"
+Adventure, Comedy, Crime            ",69        ,7.7,"288,133",$45.51M
+315,Moonrise Kingdom,(2012),PG-13,tt1748122,94 min,"
+Comedy, Drama, Romance            ",84        ,7.8,"319,952",$45.51M
+316,The Dirty Dozen,(1967),Not Rated,tt0061578,150 min,"
+Action, Adventure, War            ",73        ,7.7,"67,338",$45.30M
+317,28 Days Later...,(2002),R,tt0289043,113 min,"
+Drama, Horror, Sci-Fi            ",73        ,7.6,"377,791",$45.06M
+318,Spotlight,(I) (2015),R,tt1895587,129 min,"
+Biography, Crime, Drama            ",93        ,8.1,"422,485",$45.06M
+319,The Bridge on the River Kwai,(1957),PG,tt0050212,161 min,"
+Adventure, Drama, War            ",87        ,8.1,"204,166",$44.91M
+320,Lawrence of Arabia,(1962),Approved,tt0056172,228 min,"
+Adventure, Biography, Drama            ",100        ,8.3,"269,092",$44.82M
+321,Midnight Cowboy,(1969),R,tt0064665,113 min,"
+Drama            ",79        ,7.8,"101,437",$44.79M
+322,The Artist,(I) (2011),PG-13,tt1655442,100 min,"
+Comedy, Drama, Romance            ",89        ,7.9,"231,136",$44.67M
+323,Lost in Translation,(2003),R,tt0335266,102 min,"
+Comedy, Drama            ",89        ,7.7,"416,852",$44.59M
+324,The Odd Couple,(1968),G,tt0063374,105 min,"
+Comedy            ",86        ,7.7,"31,689",$44.53M
+325,The Shining,(1980),R,tt0081505,146 min,"
+Drama, Horror            ",66        ,8.4,"902,404",$44.02M
+326,The Last Emperor,(1987),PG-13,tt0093389,163 min,"
+Biography, Drama, History            ",76        ,7.7,"94,780",$43.98M
+327,Sense and Sensibility,(1995),PG,tt0114388,136 min,"
+Drama, Romance            ",84        ,7.6,"103,063",$43.18M
+328,Escape from Alcatraz,(1979),PG,tt0079116,112 min,"
+Action, Biography, Crime            ",76        ,7.6,"122,385",$43.00M
+329,Cabaret,(1972),PG,tt0068327,124 min,"
+Drama, Music, Musical            ",80        ,7.8,"48,507",$42.77M
+330,Casino,(1995),R,tt0112641,178 min,"
+Crime, Drama            ",73        ,8.2,"468,468",$42.44M
+331,Birdman or (The Unexpected Virtue of Ignorance),(2014),R,tt2562232,119 min,"
+Comedy, Drama            ",87        ,7.7,"582,295",$42.34M
+332,Donnie Brasco,(1997),R,tt0119008,127 min,"
+Biography, Crime, Drama            ",76        ,7.7,"280,819",$41.91M
+333,End of Watch,(2012),R,tt1855199,109 min,"
+Action, Crime, Drama            ",68        ,7.6,"228,734",$41.00M
+334,Falling Down,(1993),R,tt0106856,113 min,"
+Crime, Drama, Thriller            ",56        ,7.6,"172,322",$40.90M
+335,Paddington 2,(2017),PG,tt4468740,103 min,"
+Adventure, Comedy, Family            ",88        ,7.8,"62,103",$40.44M
+336,I Am Sam,(2001),PG-13,tt0277027,132 min,"
+Drama            ",28        ,7.7,"143,159",$40.31M
+337,There Will Be Blood,(2007),R,tt0469494,158 min,"
+Drama            ",93        ,8.2,"520,076",$40.22M
+338,Hannah and Her Sisters,(1986),PG-13,tt0091167,107 min,"
+Comedy, Drama            ",90        ,7.9,"67,359",$40.08M
+339,The Illusionist,(2006),PG-13,tt0443543,110 min,"
+Drama, Fantasy, Mystery            ",68        ,7.6,"355,366",$39.87M
+340,Annie Hall,(1977),PG,tt0075686,93 min,"
+Comedy, Romance            ",92        ,8.0,"252,346",$39.20M
+341,The Longest Day,(1962),G,tt0056197,178 min,"
+Action, Drama, History            ",75        ,7.8,"52,221",$39.10M
+342,Stardust,(2007),PG-13,tt0486655,127 min,"
+Adventure, Family, Fantasy            ",66        ,7.6,"255,676",$38.63M
+343,Pride & Prejudice,(2005),PG,tt0414387,129 min,"
+Drama, Romance            ",82        ,7.8,"260,577",$38.41M
+344,The Terminator,(1984),R,tt0088247,107 min,"
+Action, Sci-Fi            ",84        ,8.0,"801,360",$38.40M
+345,All That Jazz,(1979),R,tt0078754,123 min,"
+Drama, Music, Musical            ",72        ,7.9,"28,334",$37.82M
+346,Philomena,(2013),PG-13,tt2431286,98 min,"
+Biography, Comedy, Drama            ",77        ,7.6,"94,372",$37.71M
+347,Pan's Labyrinth,(2006),R,tt0457430,118 min,"
+Drama, Fantasy, War            ",98        ,8.2,"620,556",$37.63M
+348,Fight Club,(1999),R,tt0137523,139 min,"
+Drama            ",66        ,8.8,"1,862,752",$37.03M
+349,Carlito's Way,(1993),R,tt0106519,144 min,"
+Crime, Drama, Thriller            ",65        ,7.9,"201,664",$36.95M
+350,Rear Window,(1954),PG,tt0047396,112 min,"
+Mystery, Thriller            ",100        ,8.4,"445,778",$36.76M
+351,The Thin Red Line,(1998),R,tt0120863,170 min,"
+Drama, War            ",78        ,7.6,"173,275",$36.40M
+352,Dirty Harry,(1971),R,tt0066999,102 min,"
+Action, Crime, Thriller            ",90        ,7.7,"143,759",$35.90M
+353,The Theory of Everything,(2014),PG-13,tt2980516,123 min,"
+Biography, Drama, Romance            ",72        ,7.7,"406,150",$35.89M
+354,Shine,(1996),PG-13,tt0117631,105 min,"
+Biography, Drama, Music            ",87        ,7.7,"51,460",$35.81M
+355,Changeling,(2008),R,tt0824747,141 min,"
+Biography, Crime, Drama            ",63        ,7.7,"239,880",$35.74M
+356,Children of Men,(2006),R,tt0206634,109 min,"
+Adventure, Drama, Sci-Fi            ",84        ,7.9,"466,232",$35.55M
+357,Drive,(I) (2011),R,tt0780504,100 min,"
+Crime, Drama            ",78        ,7.8,"573,717",$35.06M
+358,50/50,(2011),R,tt1306980,100 min,"
+Comedy, Drama, Romance            ",72        ,7.6,"315,898",$35.01M
+359,The Killing Fields,(1984),R,tt0087553,141 min,"
+Biography, Drama, History            ",76        ,7.8,"51,774",$34.70M
+360,Mississippi Burning,(1988),R,tt0095647,128 min,"
+Crime, Drama, History            ",65        ,7.8,"88,701",$34.60M
+361,Eternal Sunshine of the Spotless Mind,(2004),R,tt0338013,108 min,"
+Drama, Romance, Sci-Fi            ",89        ,8.3,"915,048",$34.40M
+362,Wind River,(2017),R,tt5362988,107 min,"
+Crime, Drama, Mystery            ",73        ,7.7,"207,679",$33.80M
+363,Planet of the Apes,(1968),G,tt0063442,112 min,"
+Adventure, Sci-Fi            ",79        ,8.0,"165,487",$33.40M
+364,Amélie,(2001),R,tt0211915,122 min,"
+Comedy, Romance            ",69        ,8.3,"705,929",$33.23M
+365,Zodiac,(2007),R,tt0443706,157 min,"
+Crime, Drama, Mystery            ",78        ,7.7,"469,160",$33.08M
+366,Blade Runner,(1982),R,tt0083658,117 min,"
+Action, Sci-Fi, Thriller            ",84        ,8.1,"696,121",$32.87M
+367,The Pianist,(2002),R,tt0253474,150 min,"
+Biography, Drama, Music            ",85        ,8.5,"733,324",$32.57M
+368,Almost Famous,(2000),R,tt0181875,122 min,"
+Adventure, Comedy, Drama            ",90        ,7.9,"253,459",$32.53M
+369,October Sky,(1999),PG,tt0132477,108 min,"
+Biography, Drama, Family            ",71        ,7.8,"83,121",$32.48M
+370,The Sandlot,(1993),PG,tt0108037,101 min,"
+Comedy, Drama, Family            ",55        ,7.8,"79,225",$32.42M
+371,500 Days of Summer,(2009),PG-13,tt1022603,95 min,"
+Comedy, Drama, Romance            ",76        ,7.7,"473,589",$32.39M
+372,Nightcrawler,(2014),R,tt2872718,117 min,"
+Crime, Drama, Thriller            ",76        ,7.9,"469,095",$32.38M
+373,Isle of Dogs,(2018),PG-13,tt5104604,101 min,"
+Animation, Adventure, Comedy            ",82        ,7.9,"140,237",$32.02M
+374,Psycho,(1960),R,tt0054215,109 min,"
+Horror, Mystery, Thriller            ",97        ,8.5,"606,660",$32.00M
+375,The Outlaw Josey Wales,(1976),PG,tt0075029,135 min,"
+Western            ",69        ,7.8,"65,868",$31.80M
+376,Paper Moon,(1973),PG,tt0070510,102 min,"
+Comedy, Crime, Drama            ",77        ,8.1,"42,412",$30.93M
+377,The Princess Bride,(1987),PG,tt0093779,98 min,"
+Adventure, Family, Fantasy            ",77        ,8.0,"395,093",$30.86M
+378,From Here to Eternity,(1953),Passed,tt0045793,118 min,"
+Drama, Romance, War            ",85        ,7.6,"43,544",$30.50M
+379,Snatch,(2000),R,tt0208092,102 min,"
+Comedy, Crime            ",55        ,8.3,"784,601",$30.33M
+380,Being There,(1979),PG,tt0078841,130 min,"
+Comedy, Drama            ",83        ,8.0,"65,837",$30.18M
+381,Spartacus,(1960),PG-13,tt0054331,197 min,"
+Adventure, Biography, Drama            ",87        ,7.9,"124,685",$30.00M
+382,Serpico,(1973),R,tt0070666,130 min,"
+Biography, Crime, Drama            ",87        ,7.7,"110,398",$29.80M
+383,The Last Picture Show,(1971),R,tt0067328,118 min,"
+Drama, Romance            ",93        ,8.0,"42,764",$29.13M
+384,The Insider,(1999),R,tt0140352,157 min,"
+Biography, Drama, Thriller            ",84        ,7.8,"160,387",$28.97M
+385,A Man for All Seasons,(1966),G,tt0060665,120 min,"
+Biography, Drama, History            ",72        ,7.7,"31,346",$28.35M
+386,The Shawshank Redemption,(1994),R,tt0111161,142 min,"
+Drama            ",80        ,9.3,"2,353,109",$28.34M
+387,Taxi Driver,(1976),R,tt0075314,114 min,"
+Crime, Drama            ",94        ,8.2,"728,316",$28.26M
+388,Do the Right Thing,(1989),R,tt0097216,120 min,"
+Comedy, Drama            ",93        ,8.0,"90,155",$27.55M
+389,Dallas Buyers Club,(2013),R,tt0790636,117 min,"
+Biography, Drama            ",80        ,8.0,"443,719",$27.30M
+390,The Muppet Christmas Carol,(1992),G,tt0104940,85 min,"
+Comedy, Drama, Family            ",64        ,7.7,"50,419",$27.28M
+391,Rush,(I) (2013),R,tt1979320,123 min,"
+Action, Biography, Drama            ",74        ,8.1,"434,359",$26.95M
+392,Hell or High Water,(II) (2016),R,tt2582782,102 min,"
+Action, Crime, Drama            ",88        ,7.6,"205,055",$26.86M
+393,Glory,(1989),R,tt0097441,122 min,"
+Biography, Drama, History            ",78        ,7.8,"123,517",$26.83M
+394,Boogie Nights,(1997),R,tt0118749,155 min,"
+Drama            ",85        ,7.9,"240,375",$26.40M
+395,The Wrestler,(2008),R,tt1125849,109 min,"
+Drama, Sport            ",80        ,7.9,"289,940",$26.24M
+396,Searching,(III) (2018),PG-13,tt7668870,102 min,"
+Drama, Mystery, Thriller            ",71        ,7.6,"141,781",$26.02M
+397,Her,(2013),R,tt1798709,126 min,"
+Drama, Romance, Sci-Fi            ",90        ,8.0,"543,415",$25.57M
+398,Memento,(2000),R,tt0209144,113 min,"
+Mystery, Thriller            ",80        ,8.4,"1,129,736",$25.54M
+399,Serenity,(2005),PG-13,tt0379786,119 min,"
+Action, Adventure, Sci-Fi            ",74        ,7.8,"283,761",$25.51M
+400,Ex Machina,(2014),R,tt0470752,108 min,"
+Drama, Sci-Fi, Thriller            ",78        ,7.7,"475,952",$25.44M
+401,Boyhood,(I) (2014),R,tt1065073,165 min,"
+Drama            ",100        ,7.9,"336,282",$25.38M
+402,In the Name of the Father,(1993),R,tt0107207,133 min,"
+Biography, Crime, Drama            ",84        ,8.1,"157,518",$25.01M
+403,Enter the Dragon,(1973),R,tt0070034,102 min,"
+Action, Crime, Drama            ",83        ,7.7,"96,958",$25.00M
+404,Some Like It Hot,(1959),Passed,tt0053291,121 min,"
+Comedy, Music, Romance            ",98        ,8.2,"244,899",$25.00M
+405,Gifted,(2017),PG-13,tt4481414,101 min,"
+Drama            ",60        ,7.6,"100,292",$24.80M
+406,Fearless,(2006),PG-13,tt0446059,104 min,"
+Action, Biography, Drama            ",70        ,7.6,"72,957",$24.63M
+407,Fargo,(1996),R,tt0116282,98 min,"
+Crime, Drama, Thriller            ",85        ,8.1,"619,854",$24.61M
+408,Sling Blade,(1996),R,tt0117666,135 min,"
+Drama            ",84        ,8.0,"87,083",$24.48M
+409,In the Heat of the Night,(1967),Approved,tt0061811,110 min,"
+Crime, Drama, Mystery            ",75        ,7.9,"68,075",$24.38M
+410,Lord of War,(2005),R,tt0399295,122 min,"
+Action, Crime, Drama            ",62        ,7.6,"294,756",$24.15M
+411,The Best Years Of Our Lives,(1946),Approved,tt0036868,170 min,"
+Drama, Romance, War            ",93        ,8.0,"57,462",$23.65M
+412,Hot Fuzz,(2007),R,tt0425112,121 min,"
+Action, Comedy, Mystery            ",81        ,7.8,"464,742",$23.64M
+413,Hotel Rwanda,(2004),PG-13,tt0395169,121 min,"
+Biography, Drama, History            ",79        ,8.1,"335,236",$23.53M
+414,Raging Bull,(1980),R,tt0081398,129 min,"
+Biography, Drama, Sport            ",89        ,8.2,"323,101",$23.38M
+415,The Usual Suspects,(1995),R,tt0114814,106 min,"
+Crime, Mystery, Thriller            ",77        ,8.5,"994,865",$23.34M
+416,The Iron Giant,(1999),PG,tt0129167,86 min,"
+Animation, Action, Adventure            ",85        ,8.0,"172,640",$23.16M
+417,Match Point,(2005),R,tt0416320,124 min,"
+Drama, Romance, Thriller            ",72        ,7.6,"206,754",$23.09M
+418,The Remains of the Day,(1993),PG,tt0107943,134 min,"
+Drama, Romance            ",86        ,7.8,"66,361",$22.95M
+419,Being John Malkovich,(1999),R,tt0120601,113 min,"
+Comedy, Drama, Fantasy            ",90        ,7.7,"313,388",$22.86M
+420,Lucky Number Slevin,(2006),R,tt0425210,110 min,"
+Action, Crime, Drama            ",53        ,7.7,"299,936",$22.49M
+421,The Warriors,(1979),R,tt0080120,92 min,"
+Action, Crime, Thriller            ",65        ,7.6,"94,194",$22.49M
+422,Magnolia,(1999),R,tt0175880,188 min,"
+Drama            ",77        ,8.0,"290,567",$22.46M
+423,The Lion in Winter,(1968),PG,tt0063227,134 min,"
+Biography, Drama, History            ",--,7.9,"29,082",$22.28M
+424,Adaptation.,(2002),R,tt0268126,115 min,"
+Comedy, Drama            ",83        ,7.7,"179,124",$22.25M
+425,Pink Floyd: The Wall,(1982),R,tt0084503,95 min,"
+Drama, Fantasy, Music            ",47        ,8.1,"76,287",$22.24M
+426,Empire of the Sun,(1987),PG,tt0092965,153 min,"
+Action, Drama, History            ",62        ,7.7,"116,037",$22.24M
+427,Billy Elliot,(2000),R,tt0249462,110 min,"
+Drama, Music            ",74        ,7.7,"127,130",$22.00M
+428,Il Postino,(1994),PG,tt0110877,108 min,"
+Biography, Comedy, Drama            ",81        ,7.7,"33,716",$21.85M
+429,The Right Stuff,(1983),PG,tt0086197,193 min,"
+Adventure, Biography, Drama            ",91        ,7.8,"56,361",$21.50M
+430,Fantastic Mr. Fox,(2009),PG,tt0432283,87 min,"
+Animation, Adventure, Comedy            ",83        ,7.9,"201,051",$21.00M
+431,A Christmas Story,(1983),PG,tt0085334,93 min,"
+Comedy, Family            ",77        ,7.9,"133,172",$20.61M
+432,Gone Baby Gone,(2007),R,tt0452623,114 min,"
+Crime, Drama, Mystery            ",72        ,7.6,"251,388",$20.30M
+433,Baahubali 2: The Conclusion,(2017),Not Rated,tt4849438,167 min,"
+Action, Drama            ",--,8.2,"75,666",$20.19M
+434,Monty Python's Life of Brian,(1979),R,tt0079470,94 min,"
+Comedy            ",77        ,8.1,"368,443",$20.05M
+435,La Dolce Vita,(1960),Not Rated,tt0053779,174 min,"
+Comedy, Drama            ",95        ,8.0,"66,867",$19.52M
+436,Léon: The Professional,(1994),R,tt0110413,110 min,"
+Action, Crime, Drama            ",64        ,8.5,"1,039,943",$19.50M
+437,The Secret World of Arrietty,(2010),G,tt1568921,94 min,"
+Animation, Adventure, Family            ",80        ,7.6,"81,480",$19.20M
+438,The Apartment,(1960),Approved,tt0053604,125 min,"
+Comedy, Drama, Romance            ",94        ,8.3,"165,142",$18.60M
+439,Frost/Nixon,(2008),R,tt0870111,122 min,"
+Biography, Drama, History            ",80        ,7.7,"103,547",$18.59M
+440,Into the Wild,(2007),R,tt0758758,148 min,"
+Adventure, Biography, Drama            ",73        ,8.1,"575,139",$18.35M
+441,Only the Brave,(2017),PG-13,tt3829920,134 min,"
+Action, Biography, Drama            ",72        ,7.6,"58,818",$18.34M
+442,Crimes and Misdemeanors,(1989),PG-13,tt0097123,104 min,"
+Comedy, Drama            ",77        ,7.9,"54,826",$18.25M
+443,Call Me by Your Name,(2017),R,tt5726616,132 min,"
+Drama, Romance            ",93        ,7.9,"215,241",$18.10M
+444,The Perks of Being a Wallflower,(2012),PG-13,tt1659337,103 min,"
+Drama, Romance            ",67        ,8.0,"463,965",$17.74M
+445,Nebraska,(2013),R,tt1821549,115 min,"
+Adventure, Comedy, Drama            ",87        ,7.7,"112,608",$17.65M
+446,The Last King of Scotland,(2006),R,tt0455590,123 min,"
+Biography, Drama, History            ",74        ,7.7,"175,834",$17.61M
+447,Cat on a Hot Tin Roof,(1958),Not Rated,tt0051459,108 min,"
+Drama            ",84        ,8.0,"45,250",$17.57M
+448,Wait Until Dark,(1967),Not Rated,tt0062467,108 min,"
+Thriller            ",81        ,7.8,"27,812",$17.55M
+449,The Big Lebowski,(1998),R,tt0118715,117 min,"
+Comedy, Crime, Sport            ",71        ,8.1,"735,148",$17.50M
+450,A Bronx Tale,(1993),R,tt0106489,121 min,"
+Crime, Drama, Romance            ",80        ,7.8,"128,665",$17.27M
+451,Eastern Promises,(2007),R,tt0765443,100 min,"
+Action, Crime, Drama            ",82        ,7.6,"228,461",$17.11M
+452,Kung Fu Hustle,(2004),R,tt0373074,99 min,"
+Action, Comedy, Fantasy            ",78        ,7.7,"127,630",$17.11M
+453,Rushmore,(1998),R,tt0128445,93 min,"
+Comedy, Drama, Romance            ",86        ,7.7,"169,685",$17.11M
+454,The Motorcycle Diaries,(2004),R,tt0318462,126 min,"
+Adventure, Biography, Drama            ",75        ,7.8,"96,893",$16.76M
+455,Trainspotting,(1996),R,tt0117951,93 min,"
+Drama            ",83        ,8.1,"636,488",$16.50M
+456,21 Grams,(2003),R,tt0315733,124 min,"
+Crime, Drama, Thriller            ",70        ,7.6,"225,037",$16.29M
+457,Cool Hand Luke,(1967),GP,tt0061512,127 min,"
+Crime, Drama            ",92        ,8.1,"162,599",$16.22M
+458,The Day of the Jackal,(1973),PG,tt0069947,143 min,"
+Crime, Drama, Thriller            ",80        ,7.8,"37,620",$16.06M
+459,The French Connection,(1971),R,tt0067116,104 min,"
+Action, Crime, Drama            ",94        ,7.7,"110,510",$15.63M
+460,In America,(2002),PG-13,tt0298845,105 min,"
+Drama            ",76        ,7.7,"40,437",$15.54M
+461,About Time,(I) (2013),R,tt2194499,123 min,"
+Comedy, Drama, Fantasy            ",55        ,7.8,"305,297",$15.32M
+462,Ponyo,(2008),G,tt0876563,101 min,"
+Animation, Adventure, Comedy            ",86        ,7.7,"126,134",$15.09M
+463,American Psycho,(2000),R,tt0144084,101 min,"
+Comedy, Crime, Drama            ",64        ,7.6,"493,812",$15.07M
+464,For a Few Dollars More,(1965),R,tt0059578,132 min,"
+Western            ",74        ,8.2,"233,719",$15.00M
+465,My Left Foot,(1989),R,tt0097937,103 min,"
+Biography, Drama            ",97        ,7.9,"68,396",$14.74M
+466,Room,(I) (2015),R,tt3170832,118 min,"
+Drama, Thriller            ",86        ,8.1,"373,803",$14.68M
+467,A Fistful of Dollars,(1964),R,tt0058461,99 min,"
+Action, Drama, Western            ",65        ,8.0,"198,921",$14.50M
+468,Dark City,(1998),R,tt0118929,100 min,"
+Mystery, Sci-Fi, Thriller            ",66        ,7.6,"188,308",$14.38M
+469,The Thing,(1982),R,tt0084787,109 min,"
+Horror, Mystery, Sci-Fi            ",57        ,8.1,"372,672",$13.78M
+470,A Hard Day's Night,(1964),G,tt0058182,87 min,"
+Comedy, Musical            ",96        ,7.6,"40,496",$13.78M
+471,Letters from Iwo Jima,(2006),R,tt0498380,141 min,"
+Action, Adventure, Drama            ",89        ,7.9,"154,270",$13.76M
+472,Warrior,(2011),PG-13,tt1291584,140 min,"
+Action, Drama, Sport            ",71        ,8.2,"437,401",$13.66M
+473,Y Tu Mamá También,(2001),R,tt0245574,106 min,"
+Drama            ",88        ,7.6,"116,151",$13.62M
+474,Shaun of the Dead,(2004),R,tt0365748,99 min,"
+Comedy, Horror            ",76        ,7.9,"513,632",$13.54M
+475,Charade,(1963),Passed,tt0056923,113 min,"
+Comedy, Mystery, Romance            ",83        ,7.9,"69,112",$13.47M
+476,Secrets & Lies,(1996),R,tt0117589,136 min,"
+Comedy, Drama            ",91        ,8.0,"37,747",$13.42M
+477,North by Northwest,(1959),Approved,tt0053125,136 min,"
+Adventure, Mystery, Thriller            ",98        ,8.3,"300,245",$13.28M
+478,The Intouchables,(2011),R,tt1675434,112 min,"
+Biography, Comedy, Drama            ",57        ,8.5,"764,640",$13.18M
+479,The Peanut Butter Falcon,(2019),PG-13,tt4364194,97 min,"
+Adventure, Comedy, Drama            ",70        ,7.6,"67,952",$13.12M
+480,Whiplash,(2014),R,tt2582802,106 min,"
+Drama, Music            ",88        ,8.5,"721,830",$13.09M
+481,25th Hour,(2002),R,tt0307901,135 min,"
+Drama            ",68        ,7.6,"170,021",$13.06M
+482,Rio Bravo,(1959),Passed,tt0053221,141 min,"
+Action, Drama, Western            ",93        ,8.0,"56,480",$12.54M
+483,Mad Max 2: The Road Warrior,(1981),R,tt0082694,96 min,"
+Action, Adventure, Sci-Fi            ",77        ,7.6,"167,016",$12.47M
+484,Dangal,(2016),Not Rated,tt5074352,161 min,"
+Action, Biography, Drama            ",--,8.4,"157,650",$12.39M
+485,Gattaca,(1997),PG-13,tt0119177,106 min,"
+Drama, Sci-Fi, Thriller            ",64        ,7.8,"281,579",$12.34M
+486,True Romance,(1993),R,tt0108399,119 min,"
+Crime, Drama, Romance            ",59        ,7.9,"207,640",$12.28M
+487,The Great Escape,(1963),Approved,tt0057115,172 min,"
+Adventure, Drama, History            ",86        ,8.2,"225,492",$12.10M
+488,The Wild Bunch,(1969),R,tt0065214,135 min,"
+Action, Adventure, Western            ",97        ,7.9,"77,570",$12.06M
+489,Cinema Paradiso,(1988),R,tt0095765,155 min,"
+Drama, Romance            ",80        ,8.5,"231,978",$11.99M
+490,Anatomy of a Murder,(1959),Not Rated,tt0052561,161 min,"
+Crime, Drama, Mystery            ",95        ,8.0,"60,029",$11.90M
+491,Zelig,(1983),PG,tt0086637,79 min,"
+Comedy            ",--,7.7,"39,970",$11.80M
+492,Das Boot,(1981),R,tt0082096,149 min,"
+Adventure, Drama, Thriller            ",86        ,8.3,"232,728",$11.49M
+493,The Birds,(1963),PG-13,tt0056869,119 min,"
+Drama, Horror, Mystery            ",90        ,7.7,"172,280",$11.40M
+494,The Lives of Others,(2006),R,tt0405094,137 min,"
+Drama, Mystery, Thriller            ",89        ,8.4,"360,169",$11.29M
+495,The Red Shoes,(1948),Not Rated,tt0040725,135 min,"
+Drama, Music, Romance            ",--,8.1,"31,089",$10.90M
+496,Office Space,(1999),R,tt0151804,89 min,"
+Comedy            ",68        ,7.7,"242,263",$10.82M
+497,Glengarry Glen Ross,(1992),R,tt0104348,100 min,"
+Crime, Drama, Mystery            ",82        ,7.7,"96,138",$10.73M
+498,Fear and Loathing in Las Vegas,(1998),R,tt0120669,118 min,"
+Adventure, Comedy, Drama            ",41        ,7.6,"260,387",$10.68M
+499,The Purple Rose of Cairo,(1985),PG,tt0089853,82 min,"
+Comedy, Fantasy, Romance            ",75        ,7.7,"47,214",$10.63M
+500,PK,(2014),Not Rated,tt2338151,153 min,"
+Comedy, Drama, Musical            ",--,8.1,"163,763",$10.62M
+501,After Hours,(1985),R,tt0088680,97 min,"
+Comedy, Crime, Drama            ",90        ,7.7,"60,101",$10.60M
+502,The Quiet Man,(1952),Passed,tt0045061,129 min,"
+Comedy, Drama, Romance            ",--,7.7,"34,792",$10.55M
+503,Notorious,(1946),Not Rated,tt0038787,102 min,"
+Drama, Film-Noir, Romance            ",100        ,7.9,"92,566",$10.46M
+504,La Vie En Rose,(2007),PG-13,tt0450188,140 min,"
+Biography, Drama, Music            ",66        ,7.6,"82,958",$10.30M
+505,The Girl with the Dragon Tattoo,(2009),R,tt1132620,152 min,"
+Crime, Drama, Mystery            ",76        ,7.8,"209,325",$10.10M
+506,Spirited Away,(2001),PG,tt0245429,125 min,"
+Animation, Adventure, Family            ",96        ,8.6,"655,442",$10.06M
+507,A Little Princess,(1995),G,tt0113670,97 min,"
+Drama, Family, Fantasy            ",83        ,7.7,"32,343",$10.02M
+508,King Kong,(1933),Passed,tt0024216,100 min,"
+Adventure, Horror, Sci-Fi            ",90        ,7.9,"79,280",$10.00M
+509,Brazil,(1985),R,tt0088846,132 min,"
+Drama, Sci-Fi            ",84        ,7.9,"188,061",$9.93M
+510,On the Waterfront,(1954),Approved,tt0047296,108 min,"
+Crime, Drama, Thriller            ",91        ,8.1,"142,663",$9.60M
+511,Mr. Smith Goes to Washington,(1939),Passed,tt0031679,129 min,"
+Comedy, Drama            ",73        ,8.1,"107,336",$9.60M
+512,The Lost Weekend,(1945),Passed,tt0037884,101 min,"
+Drama, Film-Noir            ",--,7.9,"33,642",$9.46M
+513,High Noon,(1952),PG,tt0044706,85 min,"
+Drama, Thriller, Western            ",89        ,7.9,"97,474",$9.45M
+514,Once,(I) (2007),R,tt0907657,86 min,"
+Drama, Music, Romance            ",88        ,7.8,"110,897",$9.44M
+515,Talk To Her,(2002),R,tt0287467,112 min,"
+Drama, Mystery, Romance            ",86        ,7.9,"104,909",$9.28M
+516,What's Eating Gilbert Grape,(1993),PG-13,tt0108550,118 min,"
+Drama            ",73        ,7.8,"215,925",$9.17M
+517,The Boy in the Striped Pajamas,(2008),PG-13,tt0914798,94 min,"
+Drama, History, War            ",55        ,7.8,"191,532",$9.03M
+518,Singin' in the Rain,(1952),G,tt0045152,103 min,"
+Comedy, Musical, Romance            ",99        ,8.3,"219,920",$8.82M
+519,Blue Velvet,(1986),R,tt0090756,120 min,"
+Drama, Mystery, Thriller            ",76        ,7.7,"182,065",$8.55M
+520,The Hustler,(1961),Not Rated,tt0054997,134 min,"
+Drama, Sport            ",90        ,8.0,"75,228",$8.28M
+521,All About My Mother,(1999),R,tt0185125,101 min,"
+Drama            ",87        ,7.8,"89,377",$8.26M
+522,Bajrangi Bhaijaan,(2015),Not Rated,tt3863552,163 min,"
+Action, Adventure, Comedy            ",--,8.0,"72,511",$8.18M
+523,Witness for the Prosecution,(1957),Approved,tt0051201,116 min,"
+Crime, Drama, Mystery            ",--,8.4,"109,544",$8.18M
+524,Before Midnight,(2013),R,tt2209418,109 min,"
+Drama, Romance            ",94        ,7.9,"142,191",$8.11M
+525,A Streetcar Named Desire,(1951),PG,tt0044081,122 min,"
+Drama            ",97        ,8.0,"99,479",$8.00M
+526,Dazed and Confused,(1993),R,tt0106677,102 min,"
+Comedy            ",78        ,7.6,"166,243",$7.99M
+527,In Bruges,(2008),R,tt0780536,107 min,"
+Comedy, Crime, Drama            ",67        ,7.9,"391,378",$7.76M
+528,Strangers on a Train,(1951),PG,tt0044079,101 min,"
+Crime, Film-Noir, Thriller            ",88        ,7.9,"123,640",$7.63M
+529,City of God,(2002),R,tt0317248,130 min,"
+Crime, Drama            ",79        ,8.6,"701,447",$7.56M
+530,Run Lola Run,(1998),R,tt0130827,80 min,"
+Crime, Drama, Thriller            ",77        ,7.6,"188,676",$7.27M
+531,Mulholland Drive,(2001),R,tt0166924,147 min,"
+Drama, Mystery, Thriller            ",85        ,7.9,"323,530",$7.22M
+532,The Name of the Rose,(1986),R,tt0091605,130 min,"
+Crime, Drama, Mystery            ",54        ,7.7,"102,321",$7.15M
+533,A Separation,(2011),PG-13,tt1832382,123 min,"
+Drama            ",95        ,8.3,"220,984",$7.10M
+534,Deliverance,(1972),R,tt0068473,109 min,"
+Adventure, Drama, Thriller            ",80        ,7.7,"99,009",$7.06M
+535,The Triplets of Belleville,(2003),PG-13,tt0286244,80 min,"
+Animation, Comedy, Drama            ",91        ,7.8,"50,688",$7.00M
+536,The Irishman,(2019),R,tt1302006,209 min,"
+Biography, Crime, Drama            ",94        ,7.9,"327,815",$7.00M
+537,Chinatown,(1974),R,tt0071315,130 min,"
+Drama, Mystery, Thriller            ",92        ,8.1,"295,543",$6.91M
+538,Incendies,(2010),R,tt1255953,131 min,"
+Drama, Mystery, War            ",80        ,8.3,"151,164",$6.86M
+539,Me and Earl and the Dying Girl,(2015),PG-13,tt2582496,105 min,"
+Comedy, Drama            ",74        ,7.7,"123,614",$6.74M
+540,Amour,(2012),PG-13,tt1602620,127 min,"
+Drama, Romance            ",94        ,7.9,"93,427",$6.74M
+541,Baahubali: The Beginning,(2015),Not Rated,tt2631186,159 min,"
+Action, Drama            ",--,8.0,"103,331",$6.74M
+542,Loving Vincent,(2017),PG-13,tt3262342,94 min,"
+Animation, Biography, Crime            ",62        ,7.8,"51,077",$6.74M
+543,American History X,(1998),R,tt0120586,119 min,"
+Drama            ",62        ,8.5,"1,037,979",$6.72M
+544,The Big Sleep,(1946),Passed,tt0038355,114 min,"
+Crime, Film-Noir, Mystery            ",--,7.9,"78,982",$6.54M
+545,3 Idiots,(2009),PG-13,tt1187043,170 min,"
+Comedy, Drama            ",67        ,8.4,"346,126",$6.53M
+546,The Secret in Their Eyes,(2009),R,tt1305806,129 min,"
+Drama, Mystery, Romance            ",80        ,8.2,"194,013",$6.39M
+547,A Clockwork Orange,(1971),R,tt0066921,136 min,"
+Crime, Drama, Sci-Fi            ",77        ,8.3,"760,528",$6.21M
+548,The Straight Story,(1999),G,tt0166896,112 min,"
+Biography, Drama            ",86        ,8.0,"82,375",$6.20M
+549,A Very Long Engagement,(2004),R,tt0344510,133 min,"
+Drama, Mystery, Romance            ",76        ,7.6,"71,038",$6.17M
+550,Barton Fink,(1991),R,tt0101410,116 min,"
+Comedy, Drama, Thriller            ",69        ,7.7,"113,545",$6.15M
+551,Short Cuts,(1993),R,tt0108122,188 min,"
+Comedy, Drama            ",79        ,7.7,"42,360",$6.11M
+552,"The Good, the Bad and the Ugly",(1966),R,tt0060196,178 min,"
+Western            ",90        ,8.8,"691,045",$6.10M
+553,The Diving Bell and the Butterfly,(2007),PG-13,tt0401383,112 min,"
+Biography, Drama            ",92        ,8.0,"103,476",$5.99M
+554,Evil Dead II,(1987),R,tt0092991,84 min,"
+Action, Comedy, Fantasy            ",72        ,7.8,"148,703",$5.92M
+555,The Florida Project,(2017),R,tt5649144,111 min,"
+Drama            ",92        ,7.6,"95,960",$5.90M
+556,Ed Wood,(1994),R,tt0109707,127 min,"
+Biography, Comedy, Drama            ",70        ,7.8,"165,223",$5.89M
+557,Captain Fantastic,(2016),R,tt3553976,118 min,"
+Comedy, Drama            ",72        ,7.9,"190,709",$5.88M
+558,Before Sunset,(2004),R,tt0381681,80 min,"
+Drama, Romance            ",90        ,8.1,"237,492",$5.82M
+559,The Station Agent,(2003),R,tt0340377,89 min,"
+Comedy, Drama            ",81        ,7.6,"67,482",$5.74M
+560,Double Indemnity,(1944),Passed,tt0036775,107 min,"
+Crime, Drama, Film-Noir            ",95        ,8.3,"144,173",$5.72M
+561,Batman: Mask of the Phantasm,(1993),PG,tt0106364,76 min,"
+Animation, Action, Crime            ",--,7.8,"43,875",$5.62M
+562,Central Station,(1998),R,tt0140888,110 min,"
+Drama            ",80        ,8.0,"36,554",$5.60M
+563,Gully Boy,(2019),Not Rated,tt2395469,154 min,"
+Drama, Music, Romance            ",65        ,8.0,"32,106",$5.57M
+564,Before Sunrise,(1995),R,tt0112471,101 min,"
+Drama, Romance            ",77        ,8.1,"273,775",$5.54M
+565,Downfall,(2004),R,tt0363163,156 min,"
+Biography, Drama, History            ",82        ,8.2,"332,381",$5.51M
+566,The Gold Rush,(1925),Passed,tt0015864,95 min,"
+Adventure, Comedy, Drama            ",--,8.2,"101,595",$5.45M
+567,The Kid,(1921),Passed,tt0012349,68 min,"
+Comedy, Drama, Family            ",--,8.3,"114,056",$5.45M
+568,Amores Perros,(2000),R,tt0245712,154 min,"
+Drama, Thriller            ",83        ,8.1,"224,396",$5.38M
+569,Once Upon a Time in America,(1984),R,tt0087843,229 min,"
+Crime, Drama            ",--,8.4,"312,931",$5.32M
+570,Once Upon a Time in the West,(1968),PG-13,tt0064116,165 min,"
+Western            ",80        ,8.5,"303,944",$5.32M
+571,Farewell My Concubine,(1993),R,tt0106332,171 min,"
+Drama, Music, Romance            ",--,8.1,"25,209",$5.22M
+572,The Wind Rises,(2013),PG-13,tt2013293,126 min,"
+Animation, Biography, Drama            ",83        ,7.8,"74,251",$5.21M
+573,Hunt for the Wilderpeople,(2016),PG-13,tt4698684,101 min,"
+Adventure, Comedy, Drama            ",81        ,7.9,"112,324",$5.20M
+574,The World's Fastest Indian,(2005),PG-13,tt0412080,127 min,"
+Biography, Drama, Sport            ",68        ,7.8,"52,067",$5.13M
+575,Dawn of the Dead,(1978),Unrated,tt0077402,127 min,"
+Action, Adventure, Horror            ",71        ,7.9,"111,713",$5.10M
+576,Miller's Crossing,(1990),R,tt0100150,115 min,"
+Crime, Drama, Thriller            ",66        ,7.7,"126,136",$5.08M
+577,Your Name.,(2016),PG,tt5311514,106 min,"
+Animation, Drama, Fantasy            ",79        ,8.4,"197,768",$5.02M
+578,The Treasure of the Sierra Madre,(1948),Passed,tt0040897,126 min,"
+Adventure, Drama, Western            ",98        ,8.2,"114,735",$5.01M
+579,Moon,(2009),R,tt1182345,97 min,"
+Drama, Mystery, Sci-Fi            ",67        ,7.9,"335,936",$5.01M
+580,Fanny and Alexander,(1982),R,tt0083922,188 min,"
+Drama            ",100        ,8.1,"57,945",$4.97M
+581,The Magnificent Seven,(1960),Approved,tt0054047,128 min,"
+Action, Adventure, Western            ",74        ,7.7,"87,926",$4.91M
+582,The Magdalene Sisters,(2002),R,tt0318411,114 min,"
+Drama            ",83        ,7.7,"25,990",$4.89M
+583,Howl's Moving Castle,(2004),PG,tt0347149,119 min,"
+Animation, Adventure, Family            ",80        ,8.2,"336,275",$4.71M
+584,Au Revoir les Enfants,(1987),PG,tt0092593,104 min,"
+Drama, War            ",88        ,8.0,"31,270",$4.54M
+585,"Blood In, Blood Out",(1993),R,tt0106469,180 min,"
+Crime, Drama            ",47        ,8.0,"28,899",$4.50M
+586,Persepolis,(2007),PG-13,tt0808417,96 min,"
+Animation, Biography, Drama            ",90        ,8.0,"88,868",$4.45M
+587,The Conversation,(1974),PG,tt0071360,113 min,"
+Drama, Mystery, Thriller            ",85        ,7.8,"99,195",$4.42M
+588,Hamlet,(1996),PG-13,tt0116477,242 min,"
+Drama            ",--,7.7,"36,061",$4.41M
+589,Black Book,(2006),R,tt0389557,145 min,"
+Drama, Thriller, War            ",71        ,7.7,"72,793",$4.40M
+590,12 Angry Men,(1957),Approved,tt0050083,96 min,"
+Crime, Drama            ",96        ,9.0,"693,432",$4.36M
+591,Laura,(1944),Passed,tt0037008,88 min,"
+Drama, Film-Noir, Mystery            ",--,8.0,"42,864",$4.36M
+592,Rebecca,(1940),Approved,tt0032976,130 min,"
+Drama, Mystery, Romance            ",86        ,8.1,"124,454",$4.36M
+593,The Bride of Frankenstein,(1935),Not Rated,tt0026138,75 min,"
+Drama, Horror, Sci-Fi            ",95        ,7.8,"43,673",$4.36M
+594,It Happened One Night,(1934),Approved,tt0025316,105 min,"
+Comedy, Romance            ",87        ,8.1,"94,465",$4.36M
+595,The Lunchbox,(2013),PG,tt2350496,104 min,"
+Drama, Romance            ",76        ,7.8,"50,730",$4.23M
+596,Uri: The Surgical Strike,(2018),Not Rated,tt8291224,138 min,"
+Action, Drama, War            ",--,8.2,"43,686",$4.19M
+597,Dancer in the Dark,(2000),R,tt0168629,140 min,"
+Crime, Drama, Musical            ",61        ,8.0,"102,608",$4.18M
+598,Ran,(1985),R,tt0089881,162 min,"
+Action, Drama, War            ",96        ,8.2,"113,074",$4.14M
+599,The Raid: Redemption,(2011),R,tt1899353,101 min,"
+Action, Thriller            ",73        ,7.6,"190,980",$4.11M
+600,Sleuth,(1972),PG,tt0069281,138 min,"
+Mystery, Thriller            ",--,8.0,"44,842",$4.08M
+601,Le Dîner de Cons,(1998),PG-13,tt0119038,80 min,"
+Comedy            ",73        ,7.7,"37,513",$4.07M
+602,Good Bye Lenin!,(2003),R,tt0301357,121 min,"
+Comedy, Drama, Romance            ",68        ,7.7,"138,284",$4.06M
+603,What Ever Happened to Baby Jane?,(1962),Passed,tt0056687,134 min,"
+Drama, Horror, Thriller            ",75        ,8.1,"50,256",$4.05M
+604,Three Colors: Red,(1994),R,tt0111495,99 min,"
+Drama, Mystery, Romance            ",100        ,8.1,"91,380",$4.04M
+605,Breaking the Waves,(1996),R,tt0115751,159 min,"
+Drama            ",76        ,7.8,"62,609",$4.04M
+606,My Name Is Khan,(2010),PG-13,tt1188996,165 min,"
+Drama            ",50        ,8.0,"98,820",$4.02M
+607,Willy Wonka & the Chocolate Factory,(1971),G,tt0067992,100 min,"
+Family, Fantasy, Musical            ",67        ,7.8,"179,345",$4.00M
+608,The Adventures of Robin Hood,(1938),PG,tt0029843,102 min,"
+Action, Adventure, Romance            ",97        ,7.9,"47,291",$3.98M
+609,Ace In The Hole,(1951),Approved,tt0043338,111 min,"
+Drama, Film-Noir            ",72        ,8.1,"31,703",$3.97M
+610,"Lock, Stock and Two Smoking Barrels",(1998),R,tt0120735,107 min,"
+Action, Comedy, Crime            ",66        ,8.2,"536,919",$3.90M
+611,Lost Highway,(1997),R,tt0116922,134 min,"
+Mystery, Thriller            ",52        ,7.6,"131,690",$3.80M
+612,Portrait of a Lady on Fire,(2019),R,tt8613070,122 min,"
+Drama, Romance            ",95        ,8.1,"64,854",$3.76M
+613,Requiem for a Dream,(2000),R,tt0180093,102 min,"
+Drama            ",68        ,8.3,"769,841",$3.64M
+614,The Chorus,(2004),PG-13,tt0372824,97 min,"
+Drama, Music            ",56        ,7.9,"57,599",$3.64M
+615,Mommy,(I) (2014),R,tt3612616,139 min,"
+Drama            ",74        ,8.1,"50,975",$3.49M
+616,A Man Called Ove,(2015),PG-13,tt4080728,116 min,"
+Comedy, Drama, Romance            ",70        ,7.7,"47,769",$3.36M
+617,Wings of Desire,(1987),PG-13,tt0093191,128 min,"
+Drama, Fantasy, Romance            ",79        ,8.0,"65,061",$3.33M
+618,What We Do in the Shadows,(2014),R,tt3416742,86 min,"
+Comedy, Horror            ",76        ,7.7,"158,335",$3.33M
+619,Shoplifters,(2018),R,tt8075192,121 min,"
+Crime, Drama            ",93        ,7.9,"63,563",$3.31M
+620,All Quiet on the Western Front,(1930),Passed,tt0020629,152 min,"
+Drama, War            ",91        ,8.0,"57,437",$3.27M
+621,Sing Street,(2016),PG-13,tt3544112,106 min,"
+Comedy, Drama, Music            ",79        ,7.9,"85,475",$3.24M
+622,Vertigo,(1958),PG,tt0052357,128 min,"
+Mystery, Romance, Thriller            ",100        ,8.3,"365,929",$3.20M
+623,The Skin I Live In,(2011),R,tt1189073,120 min,"
+Drama, Horror, Thriller            ",70        ,7.6,"139,536",$3.19M
+624,Clerks,(1994),R,tt0109445,92 min,"
+Comedy            ",70        ,7.7,"211,762",$3.15M
+625,Zindagi Na Milegi Dobara,(2011),Not Rated,tt1562872,155 min,"
+Comedy, Drama            ",--,8.1,"68,148",$3.11M
+626,Wild Tales,(2014),R,tt3011894,122 min,"
+Comedy, Drama, Thriller            ",77        ,8.1,"178,119",$3.11M
+627,"Synecdoche, New York",(2008),R,tt0383028,124 min,"
+Drama            ",67        ,7.6,"83,581",$3.08M
+628,Hedwig and the Angry Inch,(2001),R,tt0248845,95 min,"
+Comedy, Drama, Music            ",85        ,7.7,"32,022",$3.03M
+629,Veer-Zaara,(2004),Not Rated,tt0420332,192 min,"
+Drama, Family, Musical            ",67        ,7.8,"49,241",$2.92M
+630,Waking Life,(2001),R,tt0243017,99 min,"
+Animation, Drama, Fantasy            ",83        ,7.8,"60,828",$2.89M
+631,The Great Beauty,(2013),Not Rated,tt2358891,141 min,"
+Drama            ",86        ,7.8,"81,460",$2.85M
+632,Reservoir Dogs,(1992),R,tt0105236,99 min,"
+Crime, Drama, Thriller            ",79        ,8.3,"922,257",$2.83M
+633,Happiness,(1998),Unrated,tt0147612,134 min,"
+Comedy, Drama            ",81        ,7.7,"66,538",$2.81M
+634,Barfi!,(2012),Not Rated,tt2082197,151 min,"
+Comedy, Drama, Romance            ",--,8.1,"75,936",$2.80M
+635,In the Mood for Love,(2000),PG,tt0118694,98 min,"
+Drama, Romance            ",85        ,8.1,"125,262",$2.73M
+636,Miracle on 34th Street,(1947),Not Rated,tt0039628,96 min,"
+Comedy, Drama, Family            ",88        ,7.9,"41,731",$2.65M
+637,The Raid 2,(2014),R,tt2265171,150 min,"
+Action, Crime, Thriller            ",71        ,8.0,"114,597",$2.63M
+638,The Innocents,(1961),Not Rated,tt0055018,100 min,"
+Horror            ",88        ,7.8,"27,109",$2.62M
+639,Raise the Red Lantern,(1991),PG,tt0101640,125 min,"
+Drama, History, Romance            ",--,8.1,"29,766",$2.60M
+640,A Night at the Opera,(1935),Passed,tt0026778,96 min,"
+Comedy, Music, Musical            ",--,7.9,"30,637",$2.54M
+641,The King of Comedy,(1982),PG,tt0085794,109 min,"
+Comedy, Crime, Drama            ",73        ,7.8,"89,244",$2.50M
+642,The Salesman,(2016),PG-13,tt5186714,124 min,"
+Drama            ",85        ,7.8,"51,673",$2.40M
+643,"Spring, Summer, Fall, Winter... and Spring",(2003),R,tt0374546,103 min,"
+Drama, Romance            ",85        ,8.0,"77,724",$2.38M
+644,Princess Mononoke,(1997),PG-13,tt0119698,134 min,"
+Animation, Action, Adventure            ",76        ,8.4,"345,229",$2.38M
+645,The Fall,(2006),R,tt0460791,117 min,"
+Adventure, Drama, Fantasy            ",64        ,7.9,"107,469",$2.28M
+646,Touch of Evil,(1958),PG-13,tt0052311,95 min,"
+Crime, Drama, Film-Noir            ",99        ,8.0,"98,629",$2.24M
+647,The White Ribbon,(2009),R,tt1149362,144 min,"
+Drama, History, Mystery            ",82        ,7.8,"68,912",$2.22M
+648,Lage Raho Munna Bhai,(2006),PG-13,tt0456144,144 min,"
+Comedy, Drama, Romance            ",--,8.1,"43,241",$2.22M
+649,Once Were Warriors,(1994),R,tt0110729,102 min,"
+Crime, Drama            ",77        ,7.9,"31,666",$2.20M
+650,Blue Is the Warmest Colour,(2013),NC-17,tt2278871,180 min,"
+Drama, Romance            ",89        ,7.7,"139,264",$2.20M
+651,Rang De Basanti,(2006),Not Rated,tt0405508,167 min,"
+Comedy, Crime, Drama            ",--,8.2,"112,293",$2.20M
+652,"Paris, Texas",(1984),R,tt0087884,145 min,"
+Drama            ",78        ,8.1,"91,911",$2.18M
+653,Blood Simple,(1984),R,tt0086979,99 min,"
+Crime, Drama, Thriller            ",82        ,7.6,"88,096",$2.15M
+654,Let the Right One In,(2008),R,tt1139797,114 min,"
+Crime, Drama, Fantasy            ",82        ,7.9,"205,995",$2.12M
+655,The Maltese Falcon,(1941),Not Rated,tt0033870,100 min,"
+Film-Noir, Mystery            ",96        ,8.0,"149,298",$2.11M
+656,The Sea Inside,(I) (2004),PG-13,tt0369702,126 min,"
+Biography, Drama            ",74        ,8.0,"77,733",$2.09M
+657,A Prophet,(2009),R,tt1235166,155 min,"
+Crime, Drama            ",90        ,7.9,"93,771",$2.08M
+658,The Wizard of Oz,(1939),PG,tt0032138,102 min,"
+Adventure, Family, Fantasy            ",92        ,8.0,"372,010",$2.08M
+659,Night on Earth,(1991),R,tt0102536,129 min,"
+Comedy, Drama            ",68        ,7.8,"55,582",$2.02M
+660,The Handmaiden,(2016),Not Rated,tt4016934,145 min,"
+Drama, Romance, Thriller            ",84        ,8.1,"115,060",$2.01M
+661,Marriage Story,(2019),R,tt7653254,137 min,"
+Comedy, Drama, Romance            ",94        ,7.9,"249,440",$2.00M
+662,The Double Life of Véronique,(1991),R,tt0101765,98 min,"
+Drama, Fantasy, Music            ",86        ,7.8,"42,692",$2.00M
+663,The Tenant,(1976),R,tt0074811,126 min,"
+Drama, Thriller            ",71        ,7.7,"40,064",$1.92M
+664,Delicatessen,(1991),R,tt0101700,99 min,"
+Comedy, Crime            ",66        ,7.6,"80,700",$1.79M
+665,Kal Ho Naa Ho,(2003),Not Rated,tt0347304,186 min,"
+Comedy, Drama, Musical            ",54        ,8.0,"63,612",$1.79M
+666,M.S. Dhoni: The Untold Story,(2016),Not Rated,tt4169250,184 min,"
+Biography, Drama, Sport            ",--,7.8,"40,639",$1.78M
+667,Naked,(1993),Not Rated,tt0107653,132 min,"
+Comedy, Drama            ",84        ,7.8,"34,789",$1.77M
+668,Flipped,(I) (2010),PG,tt0817177,90 min,"
+Comedy, Drama, Romance            ",45        ,7.7,"81,696",$1.75M
+669,Cries & Whispers,(1972),R,tt0069467,91 min,"
+Drama            ",--,8.1,"30,386",$1.74M
+670,English Vinglish,(2012),Not Rated,tt2181931,134 min,"
+Comedy, Drama, Family            ",--,7.8,"33,749",$1.67M
+671,Capharnaüm,(2018),R,tt8267604,126 min,"
+Drama            ",75        ,8.4,"63,939",$1.66M
+672,The Celebration,(1998),R,tt0154420,105 min,"
+Drama            ",82        ,8.0,"78,674",$1.65M
+673,Bhaag Milkha Bhaag,(2013),Not Rated,tt2356180,186 min,"
+Biography, Drama, Sport            ",--,8.2,"61,286",$1.63M
+674,Citizen Kane,(1941),PG,tt0033467,119 min,"
+Drama, Mystery            ",100        ,8.3,"405,257",$1.59M
+675,Withnail & I,(1987),R,tt0094336,107 min,"
+Comedy, Drama            ",84        ,7.7,"40,521",$1.54M
+676,Dogville,(2003),R,tt0276919,178 min,"
+Crime, Drama            ",60        ,8.0,"138,366",$1.53M
+677,The Virgin Spring,(1960),Not Rated,tt0053976,89 min,"
+Drama            ",--,8.1,"26,799",$1.53M
+678,The Tale of The Princess Kaguya,(2013),PG,tt2576852,137 min,"
+Animation, Adventure, Drama            ",89        ,8.0,"39,112",$1.51M
+679,Departures,(2008),PG-13,tt1069238,130 min,"
+Drama, Music            ",68        ,8.1,"48,724",$1.50M
+680,Donnie Darko,(2001),R,tt0246578,113 min,"
+Drama, Mystery, Sci-Fi            ",88        ,8.0,"742,114",$1.48M
+681,Three Colors: White,(1994),R,tt0111507,92 min,"
+Comedy, Drama, Romance            ",88        ,7.6,"64,852",$1.46M
+682,Down by Law,(1986),R,tt0090967,107 min,"
+Comedy, Crime, Drama            ",75        ,7.8,"47,991",$1.44M
+683,Queen,(2013),Not Rated,tt3322420,146 min,"
+Adventure, Comedy, Drama            ",--,8.2,"60,836",$1.43M
+684,Kelly's Heroes,(1970),GP,tt0065938,144 min,"
+Adventure, Comedy, War            ",50        ,7.6,"45,426",$1.38M
+685,Andhadhun,(2018),Not Rated,tt8108198,139 min,"
+Crime, Drama, Music            ",--,8.3,"72,628",$1.37M
+686,The Little Prince,(2015),PG,tt1754656,108 min,"
+Animation, Adventure, Drama            ",70        ,7.7,"56,956",$1.34M
+687,The Past,(2013),PG-13,tt2404461,130 min,"
+Drama, Mystery            ",85        ,7.8,"45,110",$1.33M
+688,Three Colors: Blue,(1993),R,tt0108394,94 min,"
+Drama, Music, Mystery            ",85        ,7.9,"90,435",$1.32M
+689,Pink,(III) (2016),Not Rated,tt5571734,136 min,"
+Drama, Thriller            ",--,8.1,"39,377",$1.24M
+690,Metropolis,(1927),Not Rated,tt0017136,153 min,"
+Drama, Sci-Fi            ",98        ,8.3,"160,671",$1.24M
+691,Monty Python and the Holy Grail,(1975),PG,tt0071853,91 min,"
+Adventure, Comedy, Fantasy            ",91        ,8.2,"502,250",$1.23M
+692,Taare Zameen Par,(2007),PG,tt0986264,165 min,"
+Drama, Family            ",--,8.4,"169,972",$1.22M
+693,Swades,(2004),Not Rated,tt0367110,189 min,"
+Drama            ",--,8.2,"83,198",$1.22M
+694,Nine Queens,(2000),R,tt0247586,114 min,"
+Crime, Drama, Thriller            ",80        ,7.9,"49,856",$1.22M
+695,"4 Months, 3 Weeks and 2 Days",(2007),Not Rated,tt1032846,113 min,"
+Drama            ",97        ,7.9,"56,784",$1.19M
+696,Kai Po Che,(2013),Not Rated,tt2213054,120 min,"
+Drama, Sport            ",40        ,7.7,"32,741",$1.12M
+697,Chak De! India,(2007),Not Rated,tt0871510,153 min,"
+Drama, Family, Sport            ",68        ,8.2,"74,382",$1.11M
+698,Tae Guk Gi: The Brotherhood of War,(2004),R,tt0386064,140 min,"
+Action, Drama, War            ",64        ,8.1,"37,885",$1.11M
+699,My Neighbor Totoro,(1988),G,tt0096283,86 min,"
+Animation, Family, Fantasy            ",86        ,8.2,"293,222",$1.11M
+700,Leviathan,(2014),R,tt2802154,140 min,"
+Crime, Drama            ",92        ,7.6,"49,601",$1.09M
+701,The Machinist,(2004),R,tt0361862,101 min,"
+Drama, Thriller            ",61        ,7.7,"359,641",$1.08M
+702,Special 26,(2013),Not Rated,tt2377938,144 min,"
+Crime, Drama, Thriller            ",--,8.0,"51,192",$1.08M
+703,No Man's Land,(I) (2001),R,tt0283509,98 min,"
+Comedy, Drama, War            ",84        ,7.9,"44,779",$1.06M
+704,Joyeux Noel,(2005),PG-13,tt0424205,116 min,"
+Drama, History, Music            ",70        ,7.7,"28,046",$1.05M
+705,Dead Man,(1995),R,tt0112817,121 min,"
+Adventure, Drama, Fantasy            ",62        ,7.6,"90,712",$1.04M
+706,Kahaani,(2012),Not Rated,tt1821480,122 min,"
+Mystery, Thriller            ",--,8.1,"57,947",$1.04M
+707,The General,(1926),Passed,tt0017925,67 min,"
+Action, Adventure, Comedy            ",--,8.1,"81,525",$1.03M
+708,Casablanca,(1942),PG,tt0034583,102 min,"
+Drama, Romance, War            ",100        ,8.5,"524,034",$1.02M
+709,Short Term 12,(2013),R,tt2370248,96 min,"
+Drama            ",82        ,8.0,"82,089",$1.01M
+710,In a Better World,(2010),R,tt1340107,118 min,"
+Drama, Romance            ",65        ,7.6,"38,550",$1.01M
+711,Cowboy Bebop: The Movie,(2001),--,tt0275277,115 min,"
+Animation, Action, Crime            ",61        ,7.9,"43,033",$1.00M
+712,Rockstar,(2011),Not Rated,tt1839596,159 min,"
+Drama, Music, Musical            ",--,7.7,"39,626",$0.99M
+713,Sherlock Jr.,(1924),Passed,tt0015324,45 min,"
+Action, Comedy, Romance            ",--,8.2,"42,333",$0.98M
+714,The Long Goodbye,(1973),R,tt0070334,112 min,"
+Comedy, Crime, Drama            ",87        ,7.6,"26,465",$0.96M
+715,Children of Heaven,(1997),PG,tt0118849,89 min,"
+Drama, Family, Sport            ",77        ,8.3,"65,782",$0.93M
+716,OMG: Oh My God!,(2012),Not Rated,tt2283748,125 min,"
+Comedy, Drama, Fantasy            ",--,8.1,"51,905",$0.92M
+717,Haider,(2014),Not Rated,tt3390572,160 min,"
+Action, Crime, Drama            ",--,8.1,"50,538",$0.90M
+718,Chhichhore,(2019),Not Rated,tt9052870,143 min,"
+Comedy, Drama            ",--,8.2,"34,246",$0.90M
+719,Paprika,(2006),R,tt0851578,90 min,"
+Animation, Drama, Fantasy            ",81        ,7.7,"71,781",$0.88M
+720,Control,(2007),R,tt0421082,122 min,"
+Biography, Drama, Music            ",78        ,7.7,"61,739",$0.87M
+721,Song of the Sea,(2014),PG,tt1865505,93 min,"
+Animation, Adventure, Drama            ",85        ,8.1,"52,056",$0.86M
+722,Mustang,(2015),PG-13,tt3966404,97 min,"
+Drama            ",83        ,7.6,"35,921",$0.85M
+723,Perfect Blue,(1997),R,tt0156887,81 min,"
+Animation, Crime, Mystery            ",--,8.0,"58,830",$0.78M
+724,When Marnie Was There,(2014),PG,tt3398268,103 min,"
+Animation, Drama, Family            ",72        ,7.7,"33,134",$0.77M
+725,Nights of Cabiria,(1957),Not Rated,tt0050783,110 min,"
+Drama            ",--,8.1,"43,082",$0.75M
+726,The Edge of Heaven,(2007),Not Rated,tt0880502,122 min,"
+Drama            ",85        ,7.8,"30,868",$0.74M
+727,Drishyam,(2015),Not Rated,tt4430212,163 min,"
+Crime, Drama, Mystery            ",--,8.2,"71,052",$0.74M
+728,Black,(2005),Not Rated,tt0375611,122 min,"
+Drama            ",--,8.2,"33,415",$0.73M
+729,Oldboy,(2003),R,tt0364569,120 min,"
+Action, Drama, Mystery            ",77        ,8.4,"517,789",$0.71M
+730,Mysterious Skin,(2004),Unrated,tt0370986,105 min,"
+Drama            ",73        ,7.6,"66,050",$0.70M
+731,Duck You Sucker,(1971),PG,tt0067140,138 min,"
+Drama, War, Western            ",77        ,7.6,"30,248",$0.70M
+732,The Hunt,(2012),R,tt2106476,115 min,"
+Drama            ",77        ,8.3,"283,731",$0.69M
+733,The Secret of Kells,(2009),Not Rated,tt0485601,75 min,"
+Animation, Adventure, Family            ",81        ,7.6,"31,995",$0.69M
+734,Nobody Knows,(2004),PG-13,tt0408664,141 min,"
+Drama            ",88        ,8.1,"25,026",$0.68M
+735,The Night of the Hunter,(1955),Not Rated,tt0048424,92 min,"
+Crime, Drama, Film-Noir            ",99        ,8.0,"82,263",$0.65M
+736,Chungking Express,(1994),PG-13,tt0109424,102 min,"
+Comedy, Crime, Drama            ",77        ,8.1,"63,699",$0.60M
+737,Loveless,(2017),R,tt6304162,127 min,"
+Drama            ",86        ,7.6,"29,934",$0.57M
+738,Akira,(1988),R,tt0094625,124 min,"
+Animation, Action, Sci-Fi            ",--,8.0,"165,654",$0.55M
+739,Love Me If You Dare,(2003),R,tt0364517,93 min,"
+Comedy, Drama, Romance            ",45        ,7.6,"67,487",$0.55M
+740,Mother,(2009),R,tt1216496,129 min,"
+Crime, Drama, Mystery            ",79        ,7.8,"53,346",$0.55M
+741,The Conformist,(1970),R,tt0065571,113 min,"
+Drama            ",100        ,8.0,"27,251",$0.54M
+742,Sunrise,(1927),Passed,tt0018455,94 min,"
+Drama, Romance            ",--,8.1,"47,014",$0.54M
+743,The African Queen,(1951),PG,tt0043265,105 min,"
+Adventure, Drama, Romance            ",91        ,7.7,"71,711",$0.54M
+744,Ghost in the Shell,(1995),TV-MA,tt0113568,83 min,"
+Animation, Action, Crime            ",76        ,8.0,"129,812",$0.52M
+745,The Return,(2003),Not Rated,tt0376968,110 min,"
+Drama            ",82        ,8.0,"42,584",$0.50M
+746,Nausicaä of the Valley of the Wind,(1984),PG,tt0087544,117 min,"
+Animation, Adventure, Fantasy            ",86        ,8.1,"151,788",$0.50M
+747,Only Yesterday,(1991),PG,tt0102587,118 min,"
+Animation, Drama, Romance            ",90        ,7.6,"27,326",$0.45M
+748,The Third Man,(1949),Approved,tt0041959,93 min,"
+Film-Noir, Mystery, Thriller            ",97        ,8.1,"159,282",$0.45M
+749,Land of Mine,(2015),R,tt3841424,100 min,"
+Drama, History, War            ",75        ,7.8,"35,777",$0.44M
+750,After the Wedding,(2006),R,tt0457655,120 min,"
+Drama            ",78        ,7.7,"32,091",$0.41M
+751,Jyaare Ame Maliya,(2007),Not Rated,tt1093370,138 min,"
+Comedy, Drama, Romance            ",--,7.9,"47,828",$0.41M
+752,Open Your Eyes,(1997),R,tt0125659,119 min,"
+Drama, Mystery, Sci-Fi            ",--,7.7,"64,230",$0.37M
+753,Jojo Rabbit,(2019),PG-13,tt2584384,108 min,"
+Comedy, Drama, War            ",58        ,7.9,"302,603",$0.35M
+754,"Crna macka, beli macor",(1998),R,tt0118843,127 min,"
+Comedy, Crime, Romance            ",73        ,8.1,"51,016",$0.35M
+755,Talvar,(2015),Not Rated,tt4934950,132 min,"
+Crime, Drama, Mystery            ",--,8.2,"31,267",$0.34M
+756,Breathless,(1960),Not Rated,tt0053472,90 min,"
+Crime, Drama            ",--,7.8,"73,541",$0.34M
+757,God's Own Country,(2017),Not Rated,tt5635086,104 min,"
+Drama, Romance            ",85        ,7.7,"25,442",$0.34M
+758,Bicycle Thieves,(1948),Not Rated,tt0040522,89 min,"
+Drama            ",--,8.3,"147,257",$0.33M
+759,This Is England,(2006),Not Rated,tt0480025,101 min,"
+Crime, Drama            ",86        ,7.7,"115,835",$0.33M
+760,La Haine,(1995),Not Rated,tt0113247,98 min,"
+Crime, Drama            ",--,8.1,"151,269",$0.31M
+761,Dil Chahta Hai,(2001),Not Rated,tt0292490,183 min,"
+Comedy, Drama, Romance            ",--,8.1,"66,952",$0.30M
+762,His Girl Friday,(1940),Passed,tt0032599,92 min,"
+Comedy, Drama, Romance            ",--,7.9,"53,845",$0.30M
+763,Amarcord,(1973),R,tt0071129,123 min,"
+Comedy, Drama, Family            ",--,7.9,"40,022",$0.29M
+764,The Great Dictator,(1940),Passed,tt0032553,125 min,"
+Comedy, Drama, War            ",--,8.4,"203,999",$0.29M
+765,Time of the Gypsies,(1988),R,tt0097223,142 min,"
+Comedy, Crime, Drama            ",--,8.2,"26,839",$0.28M
+766,Dr. Strangelove Or: How I Learned To Stop Worrying And Love The Bomb,(1964),PG,tt0057012,95 min,"
+Comedy            ",97        ,8.4,"452,106",$0.28M
+767,Seven Samurai,(1954),Not Rated,tt0047478,207 min,"
+Action, Adventure, Drama            ",98        ,8.6,"316,958",$0.27M
+768,The Legend of 1900,(1998),R,tt0120731,169 min,"
+Drama, Music, Romance            ",58        ,8.1,"59,208",$0.26M
+769,"I, Daniel Blake",(2016),R,tt5168192,100 min,"
+Drama            ",78        ,7.9,"54,157",$0.26M
+770,3-Iron,(2004),R,tt0423866,88 min,"
+Crime, Drama, Romance            ",72        ,8.0,"50,787",$0.24M
+771,Stalker,(1979),Not Rated,tt0079944,162 min,"
+Drama, Sci-Fi            ",--,8.2,"117,713",$0.23M
+772,Fireworks,(1997),--,tt0119250,103 min,"
+Crime, Drama, Romance            ",--,7.8,"27,838",$0.23M
+773,The Shop Around the Corner,(1940),Not Rated,tt0033045,99 min,"
+Comedy, Drama, Romance            ",96        ,8.1,"28,581",$0.20M
+774,The Discreet Charm of the Bourgeoisie,(1972),PG,tt0068361,102 min,"
+Comedy            ",93        ,7.9,"38,922",$0.20M
+775,Fantastic Planet,(1973),PG,tt0070544,72 min,"
+Animation, Sci-Fi            ",73        ,7.8,"25,543",$0.19M
+776,This Is Spinal Tap,(1984),R,tt0088258,82 min,"
+Comedy, Music            ",92        ,7.9,"129,162",$0.19M
+777,Lilya 4-Ever,(2002),R,tt0300140,109 min,"
+Crime, Drama            ",82        ,7.8,"42,800",$0.18M
+778,The Mirror,(1975),G,tt0072443,107 min,"
+Biography, Drama            ",80        ,8.1,"40,388",$0.18M
+779,The Broken Circle Breakdown,(2012),Not Rated,tt2024519,111 min,"
+Drama, Music, Romance            ",70        ,7.7,"39,473",$0.18M
+780,La Grande Illusion,(1937),Not Rated,tt0028950,113 min,"
+Drama, War            ",--,8.1,"33,930",$0.17M
+781,Underground,(1995),Not Rated,tt0114787,167 min,"
+Comedy, Drama, Fantasy            ",--,8.1,"55,352",$0.17M
+782,Infernal Affairs,(2002),R,tt0338564,101 min,"
+Action, Crime, Drama            ",75        ,8.0,"118,062",$0.17M
+783,Vicky Donor,(2012),Not Rated,tt2317337,126 min,"
+Comedy, Romance            ",--,7.8,"39,800",$0.17M
+784,Winter Sleep,(2014),Not Rated,tt2758880,196 min,"
+Drama            ",88        ,8.1,"46,852",$0.17M
+785,Modern Times,(1936),G,tt0027977,87 min,"
+Comedy, Drama, Family            ",96        ,8.5,"218,953",$0.16M
+786,Vampire Hunter D: Bloodlust,(2000),R,tt0216651,103 min,"
+Animation, Action, Fantasy            ",62        ,7.7,"29,288",$0.15M
+787,Tangerines,(2013),Not Rated,tt2991224,87 min,"
+Drama, War            ",73        ,8.2,"40,862",$0.14M
+788,The Experiment,(2001),R,tt0250258,120 min,"
+Drama, Thriller            ",60        ,7.7,"90,952",$0.14M
+789,Once Upon a Time in Anatolia,(2011),Not Rated,tt1827487,157 min,"
+Crime, Drama            ",82        ,7.9,"42,268",$0.14M
+790,Tokyo Godfathers,(2003),PG-13,tt0388473,92 min,"
+Animation, Adventure, Comedy            ",73        ,7.8,"31,874",$0.13M
+791,I Saw the Devil,(2010),Not Rated,tt1588170,144 min,"
+Action, Crime, Drama            ",67        ,7.8,"111,925",$0.13M
+792,Darbareye Elly,(2009),TV-PG,tt1360860,119 min,"
+Drama, Mystery            ",87        ,8.0,"46,193",$0.11M
+793,Andrei Rublev,(1966),R,tt0060107,205 min,"
+Biography, Drama, History            ",--,8.1,"47,324",$0.10M
+794,Elite Squad 2: The Enemy Within,(2010),Not Rated,tt1555149,115 min,"
+Action, Crime, Drama            ",71        ,8.0,"79,359",$0.10M
+795,Rashômon,(1950),Not Rated,tt0042876,88 min,"
+Crime, Drama, Mystery            ",98        ,8.2,"153,313",$0.10M
+796,Night of the Living Dead,(1968),Not Rated,tt0063350,96 min,"
+Horror, Thriller            ",89        ,7.9,"116,897",$0.09M
+797,Hiroshima Mon Amour,(1959),Not Rated,tt0052893,90 min,"
+Drama, Romance            ",--,7.9,"28,555",$0.09M
+798,The Best Offer,(2013),R,tt1924396,131 min,"
+Crime, Drama, Mystery            ",49        ,7.8,"108,904",$0.09M
+799,Peeping Tom,(1960),Not Rated,tt0054167,101 min,"
+Drama, Horror, Thriller            ",--,7.7,"31,469",$0.08M
+800,Beasts of No Nation,(2015),Not Rated,tt1365050,137 min,"
+Drama, War            ",79        ,7.7,"74,306",$0.08M
+801,Detachment,(2011),Not Rated,tt1683526,98 min,"
+Drama            ",52        ,7.7,"77,347",$0.07M
+802,Lagaan: Once Upon a Time in India,(2001),PG,tt0169102,224 min,"
+Drama, Musical, Sport            ",84        ,8.1,"105,356",$0.07M
+803,The Holy Mountain,(1973),R,tt0071615,114 min,"
+Adventure, Drama, Fantasy            ",76        ,7.9,"37,468",$0.06M
+804,Rififi,(1955),Not Rated,tt0048021,118 min,"
+Crime, Drama, Thriller            ",97        ,8.1,"29,143",$0.06M
+805,The Battle of Algiers,(1966),Not Rated,tt0058946,121 min,"
+Drama, War            ",96        ,8.1,"53,401",$0.06M
+806,Ikiru,(1952),Not Rated,tt0044741,143 min,"
+Drama            ",--,8.3,"68,931",$0.06M
+807,The Grapes of Wrath,(1940),Passed,tt0032551,129 min,"
+Drama, History            ",96        ,8.0,"85,812",$0.06M
+808,Les yeux sans visage,(1960),Not Rated,tt0053459,90 min,"
+Drama, Horror            ",90        ,7.7,"27,779",$0.05M
+809,Battleship Potemkin,(1925),Not Rated,tt0015648,66 min,"
+Drama, History, Thriller            ",97        ,8.0,"53,306",$0.05M
+810,8½,(1963),Not Rated,tt0056801,138 min,"
+Drama            ",91        ,8.0,"109,237",$0.05M
+811,Sympathy for Mr. Vengeance,(2002),R,tt0310775,129 min,"
+Crime, Drama, Thriller            ",56        ,7.6,"62,876",$0.05M
+812,Paan Singh Tomar,(2012),Not Rated,tt1620933,135 min,"
+Action, Biography, Crime            ",--,8.2,"33,320",$0.04M
+813,Le Samouraï,(1967),GP,tt0062229,101 min,"
+Crime, Drama, Mystery            ",--,8.1,"45,674",$0.04M
+814,M,(1931),Passed,tt0022100,99 min,"
+Crime, Mystery, Thriller            ",--,8.3,"144,120",$0.03M
+815,Belle de Jour,(1967),R,tt0061395,100 min,"
+Drama, Romance            ",--,7.7,"40,447",$0.03M
+816,The Boondock Saints,(1999),R,tt0144117,108 min,"
+Action, Crime, Thriller            ",44        ,7.8,"227,494",$0.03M
+817,The Passion of Joan of Arc,(1928),Passed,tt0019254,114 min,"
+Biography, Drama, History            ",--,8.1,"48,060",$0.02M
+818,City Lights,(1931),G,tt0021749,87 min,"
+Comedy, Drama, Romance            ",99        ,8.5,"168,603",$0.02M
+819,Evil,(2003),Not Rated,tt0338309,113 min,"
+Drama            ",61        ,7.8,"35,745",$0.02M
+820,Memories of Murder,(2003),Not Rated,tt0353969,132 min,"
+Crime, Drama, Mystery            ",82        ,8.1,"141,095",$0.01M
+821,Dial M for Murder,(1954),PG,tt0046912,105 min,"
+Crime, Thriller            ",75        ,8.2,"159,086",$0.01M
+822,Dev.D,(2009),Not Rated,tt1327035,144 min,"
+Drama, Romance            ",--,8.0,"28,802",$0.01M
+823,All About Eve,(1950),Passed,tt0042192,138 min,"
+Drama            ",98        ,8.2,"120,998",$0.01M
+824,Elite Squad,(2007),R,tt0861739,115 min,"
+Action, Crime, Drama            ",33        ,8.0,"98,331",$0.01M
+825,Udaan,(2010),Not Rated,tt1639426,134 min,"
+Drama            ",--,8.2,"42,418",$0.01M
+826,The Man from Nowhere,(2010),R,tt1527788,119 min,"
+Action, Crime, Drama            ",--,7.8,"63,158",$0.01M
+827,Dead Man's Shoes,(2004),Not Rated,tt0419677,90 min,"
+Crime, Drama, Thriller            ",52        ,7.6,"49,863",$0.01M
+828,Mr. Nobody,(2009),R,tt0485947,141 min,"
+Drama, Fantasy, Romance            ",63        ,7.8,"217,164",$0.00M
+829,Knockin' on Heaven's Door,(1997),Not Rated,tt0119472,87 min,"
+Action, Crime, Comedy            ",--,8.0,"27,810",$0.00M
+830,Adam's Apples,(2005),R,tt0418455,94 min,"
+Comedy, Crime, Drama            ",51        ,7.8,"45,885",$0.00M
+831,Dark Waters,(2019),PG-13,tt9071322,126 min,"
+Biography, Drama, History            ",73        ,7.6,"62,364",--
+832,Hamilton,(2020),PG-13,tt8503618,160 min,"
+Biography, Drama, History            ",90        ,8.5,"57,588",--
+833,The Gentlemen,(2019),R,tt8367814,113 min,"
+Action, Comedy, Crime            ",51        ,7.8,"244,945",--
+834,Tumbbad,(2018),Not Rated,tt8239946,104 min,"
+Drama, Fantasy, Horror            ",--,8.3,"28,190",--
+835,Dil Bechara,(2020),Not Rated,tt8110330,101 min,"
+Comedy, Drama, Romance            ",--,6.6,"111,943",--
+836,K.G.F: Chapter 1,(2018),Not Rated,tt7838252,156 min,"
+Action, Drama            ",--,8.2,"37,258",--
+837,Badhaai Ho,(2018),Not Rated,tt7725596,124 min,"
+Comedy, Drama            ",--,8.0,"28,127",--
+838,Raazi,(2018),Not Rated,tt7098658,138 min,"
+Action, Drama, Thriller            ",--,7.8,"25,452",--
+839,Raatchasan,(2018),Not Rated,tt7060344,170 min,"
+Action, Crime, Thriller            ",--,8.6,"25,146",--
+840,Ayla: The Daughter of War,(2017),--,tt6316138,125 min,"
+Biography, Drama, History            ",--,8.4,"34,417",--
+841,Roma,(2018),R,tt6155172,135 min,"
+Drama            ",96        ,7.7,"141,245",--
+842,Vikram Vedha,(2017),Not Rated,tt6148156,147 min,"
+Action, Crime, Drama            ",--,8.4,"28,753",--
+843,Sound of Metal,(2019),R,tt5363618,120 min,"
+Drama, Music            ",82        ,7.8,"33,737",--
+844,A Silent Voice: The Movie,(2016),Not Rated,tt5323662,130 min,"
+Animation, Drama, Family            ",78        ,8.1,"49,080",--
+845,Togo,(2019),PG,tt5116302,113 min,"
+Adventure, Biography, Drama            ",69        ,8.0,"38,295",--
+846,Just Mercy,(2019),PG-13,tt4916630,137 min,"
+Biography, Crime, Drama            ",68        ,7.6,"47,804",--
+847,Perfect Strangers,(2016),--,tt4901306,96 min,"
+Comedy, Drama            ",--,7.8,"57,547",--
+848,The Invisible Guest,(2016),TV-MA,tt4857264,106 min,"
+Crime, Drama, Mystery            ",--,8.1,"143,872",--
+849,Klaus,(2019),PG,tt4729430,96 min,"
+Animation, Adventure, Comedy            ",65        ,8.2,"106,645",--
+850,Udta Punjab,(2016),TV-MA,tt4434004,148 min,"
+Action, Crime, Drama            ",--,7.8,"27,239",--
+851,Airlift,(2016),Not Rated,tt4387040,130 min,"
+Drama, History            ",--,8.0,"52,966",--
+852,Victoria,(II) (2015),Not Rated,tt4226388,138 min,"
+Crime, Drama, Romance            ",77        ,7.6,"53,184",--
+853,Baby,(I) (2015),Not Rated,tt3848892,159 min,"
+Action, Thriller            ",--,8.0,"52,928",--
+854,Drishyam,(2013),Not Rated,tt3417422,160 min,"
+Crime, Drama, Thriller            ",--,8.4,"31,760",--
+855,Pride,(I) (2014),R,tt3169706,119 min,"
+Biography, Comedy, Drama            ",79        ,7.8,"52,131",--
+856,Soul,(2020),PG,tt2948372,100 min,"
+Animation, Adventure, Comedy            ",83        ,8.1,"182,087",--
+857,Wolf Children,(2012),PG,tt2140203,117 min,"
+Animation, Drama, Fantasy            ",71        ,8.1,"39,046",--
+858,Gangs of Wasseypur,(2012),R,tt1954470,321 min,"
+Action, Comedy, Crime            ",89        ,8.2,"82,783",--
+859,The Body,(2012),--,tt1937149,112 min,"
+Mystery, Thriller            ",--,7.6,"57,985",--
+860,Confessions,(2010),Not Rated,tt1590089,106 min,"
+Drama, Thriller            ",--,7.8,"35,831",--
+861,A Wednesday,(2008),Not Rated,tt1280558,104 min,"
+Action, Crime, Drama            ",--,8.1,"74,010",--
+862,Celda 211,(2009),--,tt1242422,113 min,"
+Action, Adventure, Crime            ",--,7.6,"64,040",--
+863,Ip Man,(2008),R,tt1220719,106 min,"
+Action, Biography, Drama            ",59        ,8.0,"211,903",--
+864,The Chaser,(2008),Not Rated,tt1190539,125 min,"
+Action, Crime, Thriller            ",64        ,7.8,"58,765",--
+865,Nefes: Vatan Sagolsun,(2009),--,tt1171701,128 min,"
+Action, Drama, Thriller            ",--,8.0,"31,923",--
+866,The Trial of the Chicago 7,(2020),R,tt1070874,129 min,"
+Drama, History, Thriller            ",77        ,7.8,"99,375",--
+867,The Wave,(2008),Not Rated,tt1063669,107 min,"
+Drama, Thriller            ",--,7.6,"103,033",--
+868,Dara iz Jasenovca,(2020),R,tt10554232,130 min,"
+Drama, War            ",--,8.4,"27,907",--
+869,Miracle in cell NO.7,(2019),TV-14,tt10431500,132 min,"
+Drama            ",--,8.2,"34,996",--
+870,Another Round,(2020),Not Rated,tt10288566,117 min,"
+Comedy, Drama            ",81        ,7.8,"41,071",--
+871,Hachi: A Dog's Tale,(2009),G,tt1028532,93 min,"
+Biography, Drama, Family            ",--,8.1,"254,791",--
+872,Soorarai Pottru,(2020),TV-MA,tt10189514,153 min,"
+Drama            ",--,8.6,"55,931",--
+873,Mary and Max,(2009),Not Rated,tt0978762,92 min,"
+Animation, Comedy, Drama            ",--,8.1,"164,969",--
+874,The Girl Who Leapt Through Time,(2006),TV-PG,tt0808506,98 min,"
+Animation, Adventure, Comedy            ",--,7.7,"60,610",--
+875,Death Note: Desu nôto,(2006),Not Rated,tt0758742,126 min,"
+Crime, Drama, Fantasy            ",--,7.7,"28,689",--
+876,The Man from Earth,(2007),Not Rated,tt0756683,87 min,"
+Drama, Fantasy, Mystery            ",--,7.9,"174,635",--
+877,Babam ve Oglum,(2005),--,tt0476735,112 min,"
+Drama, Family            ",--,8.3,"79,373",--
+878,C.R.A.Z.Y.,(2005),Not Rated,tt0401085,129 min,"
+Comedy, Drama            ",81        ,7.9,"31,513",--
+879,G.O.R.A.,(2004),--,tt0384116,127 min,"
+Adventure, Comedy, Sci-Fi            ",--,8.0,"57,216",--
+880,Munna Bhai M.B.B.S.,(2003),Not Rated,tt0374887,156 min,"
+Comedy, Drama            ",--,8.1,"74,217",--
+881,Head-On,(2004),R,tt0347048,121 min,"
+Drama, Romance            ",78        ,7.9,"51,434",--
+882,My Sassy Girl,(2001),Not Rated,tt0293715,137 min,"
+Comedy, Drama, Romance            ",--,8.0,"45,498",--
+883,Vizontele,(2001),--,tt0270053,110 min,"
+Comedy, Drama            ",--,8.0,"33,736",--
+884,Battle Royale,(2000),Not Rated,tt0266308,114 min,"
+Action, Adventure, Drama            ",81        ,7.6,"169,480",--
+885,Joint Security Area,(2000),Not Rated,tt0260991,110 min,"
+Action, Drama, Thriller            ",58        ,7.8,"26,653",--
+886,Hera Pheri,(2000),Not Rated,tt0242519,156 min,"
+Action, Comedy, Crime            ",--,8.2,"57,256",--
+887,Neon Genesis Evangelion: The End of Evangelion,(1997),Not Rated,tt0169858,87 min,"
+Animation, Action, Drama            ",--,8.1,"39,417",--
+888,Interstate 60,(2002),R,tt0165832,116 min,"
+Adventure, Comedy, Drama            ",--,7.7,"30,076",--
+889,Funny Games,(1997),Not Rated,tt0119167,108 min,"
+Crime, Drama, Thriller            ",69        ,7.6,"65,397",--
+890,The Bandit,(1996),--,tt0116231,128 min,"
+Crime, Drama, Thriller            ",--,8.2,"64,393",--
+891,Whisper of the Heart,(1995),G,tt0113824,111 min,"
+Animation, Drama, Family            ",75        ,7.9,"52,452",--
+892,Fallen Angels,(1995),Not Rated,tt0112913,99 min,"
+Comedy, Crime, Drama            ",71        ,7.7,"26,753",--
+893,Dilwale Dulhania Le Jayenge,(1995),Not Rated,tt0112870,181 min,"
+Drama, Romance            ",--,8.1,"63,681",--
+894,Andaz Apna Apna,(1994),PG,tt0109117,160 min,"
+Action, Comedy, Romance            ",--,8.2,"49,401",--
+895,Ninja Scroll,(1993),Not Rated,tt0107692,94 min,"
+Animation, Action, Adventure            ",--,7.9,"34,634",--
+896,Hard Boiled,(1992),R,tt0104684,128 min,"
+Action, Crime, Thriller            ",--,7.8,"46,826",--
+897,Porco Rosso,(1992),PG,tt0104652,94 min,"
+Animation, Adventure, Comedy            ",83        ,7.7,"78,376",--
+898,Kiki's Delivery Service,(1989),G,tt0097814,103 min,"
+Animation, Adventure, Drama            ",83        ,7.8,"125,124",--
+899,The Killer,(1989),R,tt0097202,111 min,"
+Action, Crime, Drama            ",82        ,7.8,"45,730",--
+900,The Vanishing,(1988),Not Rated,tt0096163,107 min,"
+Mystery, Thriller            ",--,7.7,"34,094",--
+901,Grave of the Fireflies,(1988),Not Rated,tt0095327,89 min,"
+Animation, Drama, War            ",94        ,8.5,"236,815",--
+902,Castle in the Sky,(1986),PG,tt0092067,125 min,"
+Animation, Adventure, Drama            ",78        ,8.0,"150,876",--
+903,Come and See,(1985),Not Rated,tt0091251,142 min,"
+Drama, Thriller, War            ",--,8.3,"59,828",--
+904,Fitzcarraldo,(1982),PG,tt0083946,158 min,"
+Adventure, Drama            ",--,8.1,"31,743",--
+905,Kagemusha,(1980),PG,tt0080979,162 min,"
+Drama, History, War            ",84        ,8.0,"32,310",--
+906,The Elephant Man,(1980),PG,tt0080678,124 min,"
+Biography, Drama            ",78        ,8.1,"221,013",--
+907,Lupin the 3rd: Castle of Cagliostro,(1979),PG-13,tt0079833,102 min,"
+Animation, Adventure, Family            ",71        ,7.7,"27,194",--
+908,Watership Down,(1978),PG,tt0078480,91 min,"
+Animation, Adventure, Drama            ",64        ,7.6,"33,751",--
+909,Autumn Sonata,(1978),PG,tt0077711,99 min,"
+Drama, Music            ",--,8.2,"27,326",--
+910,Days of Heaven,(1978),PG,tt0077405,94 min,"
+Drama, Romance            ",93        ,7.8,"53,110",--
+911,Network,(1976),R,tt0074958,121 min,"
+Drama            ",83        ,8.1,"145,406",--
+912,The Message,(1976),PG,tt0074896,177 min,"
+Biography, Drama, History            ",--,8.2,"44,004",--
+913,Sholay,(1975),Not Rated,tt0073707,162 min,"
+Action, Adventure, Comedy            ",--,8.2,"51,425",--
+914,The Man Who Would Be King,(1975),PG,tt0073341,129 min,"
+Adventure, History, War            ",91        ,7.8,"45,137",--
+915,Love and Death,(1975),PG,tt0073312,85 min,"
+Comedy, War            ",89        ,7.7,"36,147",--
+916,Barry Lyndon,(1975),PG,tt0072684,185 min,"
+Adventure, Drama, History            ",89        ,8.1,"150,661",--
+917,The Taking of Pelham One Two Three,(1974),R,tt0072251,104 min,"
+Action, Crime, Thriller            ",68        ,7.7,"26,826",--
+918,Badlands,(1973),PG,tt0069762,94 min,"
+Action, Crime, Drama            ",93        ,7.8,"66,313",--
+919,Solaris,(1972),PG,tt0069293,167 min,"
+Drama, Mystery, Sci-Fi            ",90        ,8.1,"81,469",--
+920,"Aguirre, the Wrath of God",(1972),Not Rated,tt0068182,95 min,"
+Action, Adventure, Biography            ",--,7.9,"52,587",--
+921,Harold and Maude,(1971),PG,tt0067185,91 min,"
+Comedy, Drama, Romance            ",62        ,7.9,"71,062",--
+922,Anand,(1971),Not Rated,tt0066763,122 min,"
+Drama, Musical            ",--,8.4,"30,498",--
+923,Where Eagles Dare,(1968),M,tt0065207,158 min,"
+Action, Adventure, War            ",63        ,7.7,"52,053",--
+924,Rosemary's Baby,(1968),Approved,tt0063522,137 min,"
+Drama, Horror            ",96        ,8.0,"194,676",--
+925,Bonnie and Clyde,(1967),R,tt0061418,111 min,"
+Action, Biography, Crime            ",86        ,7.8,"102,734",--
+926,Who's Afraid of Virginia Woolf?,(1966),Not Rated,tt0061184,131 min,"
+Drama            ",75        ,8.0,"69,133",--
+927,Persona,(1966),Not Rated,tt0060827,83 min,"
+Drama, Thriller            ",86        ,8.1,"103,962",--
+928,Repulsion,(1965),Not Rated,tt0059646,105 min,"
+Drama, Horror, Thriller            ",91        ,7.7,"49,057",--
+929,Zulu,(1964),Not Rated,tt0058777,138 min,"
+Drama, History, War            ",77        ,7.7,"36,127",--
+930,High and Low,(1963),Not Rated,tt0057565,143 min,"
+Crime, Drama, Mystery            ",--,8.4,"34,900",--
+931,The Exterminating Angel,(1962),Not Rated,tt0056732,95 min,"
+Drama, Fantasy            ",--,8.1,"29,791",--
+932,Vivre Sa Vie,(1962),Not Rated,tt0056663,85 min,"
+Drama            ",--,8.0,"28,244",--
+933,To Kill a Mockingbird,(1962),Approved,tt0056592,129 min,"
+Crime, Drama            ",88        ,8.2,"294,673",--
+934,Sanjuro,(1962),Not Rated,tt0056443,96 min,"
+Action, Comedy, Crime            ",--,8.1,"33,306",--
+935,The Manchurian Candidate,(1962),PG-13,tt0056218,126 min,"
+Drama, Thriller            ",94        ,7.9,"71,258",--
+936,The Man Who Shot Liberty Valance,(1962),Not Rated,tt0056217,123 min,"
+Drama, Western            ",94        ,8.1,"69,089",--
+937,Ivan's Childhood,(1962),Not Rated,tt0056111,84 min,"
+Drama, War            ",--,8.1,"31,979",--
+938,Hara-Kiri,(1962),Not Rated,tt0056058,133 min,"
+Action, Drama, Mystery            ",85        ,8.6,"42,708",--
+939,Cape Fear,(1962),Passed,tt0055824,106 min,"
+Drama, Thriller            ",76        ,7.7,"26,539",--
+940,Yojimbo,(1961),Not Rated,tt0055630,110 min,"
+Action, Drama, Thriller            ",--,8.2,"111,837",--
+941,Jules and Jim,(1962),Not Rated,tt0055032,105 min,"
+Drama, Romance            ",97        ,7.8,"37,811",--
+942,Judgment at Nuremberg,(1961),Approved,tt0055031,179 min,"
+Drama, War            ",60        ,8.2,"69,806",--
+943,Breakfast at Tiffany's,(1961),Approved,tt0054698,115 min,"
+Comedy, Drama, Romance            ",76        ,7.6,"167,125",--
+944,Inherit the Wind,(1960),Passed,tt0053946,128 min,"
+Biography, Drama, History            ",75        ,8.1,"27,340",--
+945,L'Avventura,(1960),Not Rated,tt0053619,144 min,"
+Drama, Mystery            ",--,7.9,"26,695",--
+946,The 400 Blows,(1959),Not Rated,tt0053198,99 min,"
+Crime, Drama            ",--,8.1,"105,884",--
+947,The Hidden Fortress,(1958),Not Rated,tt0051808,126 min,"
+Adventure, Drama            ",--,8.1,"35,023",--
+948,Sweet Smell of Success,(1957),Approved,tt0051036,96 min,"
+Drama, Film-Noir            ",100        ,8.0,"28,297",--
+949,Wild Strawberries,(1957),Not Rated,tt0050986,91 min,"
+Drama, Romance            ",88        ,8.2,"96,982",--
+950,The Seventh Seal,(1957),Not Rated,tt0050976,96 min,"
+Drama, Fantasy, History            ",88        ,8.2,"165,909",--
+951,Paths of Glory,(1957),Approved,tt0050825,88 min,"
+Drama, War            ",90        ,8.4,"179,046",--
+952,Throne of Blood,(1957),Not Rated,tt0050613,110 min,"
+Drama, History            ",--,8.1,"46,929",--
+953,The Searchers,(1956),Passed,tt0049730,119 min,"
+Adventure, Drama, Western            ",94        ,7.9,"80,579",--
+954,The Killing,(1956),Approved,tt0049406,84 min,"
+Crime, Drama, Film-Noir            ",91        ,8.0,"81,990",--
+955,Invasion of the Body Snatchers,(1956),Approved,tt0049366,80 min,"
+Drama, Horror, Sci-Fi            ",92        ,7.7,"44,989",--
+956,Giant,(1956),G,tt0049261,201 min,"
+Drama, Western            ",84        ,7.6,"34,210",--
+957,Rebel Without a Cause,(1955),PG-13,tt0048545,111 min,"
+Drama            ",89        ,7.7,"83,666",--
+958,The Ladykillers,(1955),Not Rated,tt0048281,91 min,"
+Comedy, Crime            ",91        ,7.7,"26,606",--
+959,East of Eden,(1955),PG,tt0048028,118 min,"
+Drama            ",72        ,7.9,"40,497",--
+960,La Strada,(1954),Not Rated,tt0047528,108 min,"
+Drama            ",--,8.0,"58,500",--
+961,Sabrina,(1954),Passed,tt0047437,113 min,"
+Comedy, Drama, Romance            ",72        ,7.7,"59,606",--
+962,Diabolique,(1955),Not Rated,tt0046911,117 min,"
+Crime, Drama, Horror            ",--,8.0,"61,645",--
+963,Tokyo Story,(1953),Not Rated,tt0046438,136 min,"
+Drama            ",--,8.2,"53,554",--
+964,Stalag 17,(1953),Not Rated,tt0046359,120 min,"
+Comedy, Drama, War            ",84        ,8.0,"51,136",--
+965,The Wages of Fear,(1953),Not Rated,tt0046268,131 min,"
+Adventure, Drama, Thriller            ",85        ,8.1,"54,848",--
+966,Roman Holiday,(1953),Not Rated,tt0046250,118 min,"
+Comedy, Romance            ",78        ,8.0,"127,725",--
+967,"Day the Earth Stood Still, The",(1951),G,tt0043456,92 min,"
+Drama, Sci-Fi            ",--,7.7,"76,398",--
+968,Sunset Blvd.,(1950),Passed,tt0043014,110 min,"
+Drama, Film-Noir            ",--,8.4,"202,474",--
+969,In a Lonely Place,(1950),Not Rated,tt0042593,94 min,"
+Drama, Film-Noir, Mystery            ",--,8.0,"26,948",--
+970,Harvey,(1950),Approved,tt0042546,104 min,"
+Comedy, Drama, Fantasy            ",--,7.9,"52,643",--
+971,White Heat,(1949),Not Rated,tt0042041,114 min,"
+Action, Crime, Drama            ",--,8.1,"29,914",--
+972,Kind Hearts and Coronets,(1949),Not Rated,tt0041546,106 min,"
+Comedy, Crime            ",--,8.0,"34,588",--
+973,Rope,(1948),Approved,tt0040746,80 min,"
+Crime, Drama, Mystery            ",73        ,8.0,"130,342",--
+974,Red River,(1948),Passed,tt0040724,133 min,"
+Action, Adventure, Drama            ",--,7.8,"28,266",--
+975,Key Largo,(1948),Not Rated,tt0040506,100 min,"
+Action, Crime, Drama            ",--,7.8,"37,088",--
+976,Out of the Past,(1947),Not Rated,tt0039689,97 min,"
+Crime, Drama, Film-Noir            ",--,8.0,"32,972",--
+977,It's A Wonderful Life,(1946),PG,tt0038650,130 min,"
+Drama, Family, Fantasy            ",89        ,8.6,"407,366",--
+978,Gilda,(1946),Approved,tt0038559,110 min,"
+Drama, Film-Noir, Romance            ",--,7.7,"28,087",--
+979,Brief Encounter,(1945),Not Rated,tt0037558,86 min,"
+Drama, Romance            ",92        ,8.0,"35,810",--
+980,To Have and Have Not,(1944),Passed,tt0037382,100 min,"
+Adventure, Comedy, Film-Noir            ",--,7.8,"31,186",--
+981,Lifeboat,(1944),Not Rated,tt0037017,97 min,"
+Drama, War            ",78        ,7.6,"26,551",--
+982,Arsenic and Old Lace,(1942),Not Rated,tt0036613,118 min,"
+Comedy, Crime, Thriller            ",--,8.0,"65,279",--
+983,Shadow of a Doubt,(1943),PG,tt0036342,108 min,"
+Film-Noir, Thriller            ",94        ,7.8,"59,790",--
+984,To Be or Not to Be,(1942),Passed,tt0035446,99 min,"
+Comedy, War            ",86        ,8.2,"30,254",--
+985,The Philadelphia Story,(1940),Not Rated,tt0032904,112 min,"
+Comedy, Romance            ",96        ,7.9,"63,765",--
+986,Stagecoach,(1939),Passed,tt0031971,96 min,"
+Adventure, Drama, Western            ",93        ,7.8,"43,821",--
+987,The Rules of the Game,(1939),Not Rated,tt0031885,110 min,"
+Comedy, Drama            ",--,8.0,"26,809",--
+988,The Lady Vanishes,(1938),Not Rated,tt0030341,96 min,"
+Mystery, Thriller            ",98        ,7.8,"47,619",--
+989,Bringing Up Baby,(1938),Passed,tt0029947,102 min,"
+Comedy, Family, Romance            ",91        ,7.8,"55,375",--
+990,The 39 Steps,(1935),Approved,tt0026029,86 min,"
+Crime, Mystery, Thriller            ",93        ,7.6,"52,074",--
+991,The Thin Man,(1934),TV-PG,tt0025878,91 min,"
+Comedy, Crime, Mystery            ",86        ,8.0,"26,728",--
+992,The Invisible Man,(1933),TV-PG,tt0024184,71 min,"
+Horror, Sci-Fi            ",87        ,7.7,"30,872",--
+993,Duck Soup,(1933),Not Rated,tt0023969,69 min,"
+Comedy, Musical, War            ",93        ,7.8,"55,691",--
+994,Scarface,(1932),PG,tt0023427,93 min,"
+Action, Crime, Drama            ",87        ,7.8,"25,402",--
+995,Freaks,(1932),Not Rated,tt0022913,64 min,"
+Drama, Horror            ",80        ,7.9,"42,228",--
+996,Frankenstein,(1931),Passed,tt0021884,70 min,"
+Drama, Horror, Sci-Fi            ",91        ,7.8,"65,559",--
+997,The Circus,(1928),Passed,tt0018773,72 min,"
+Comedy, Romance            ",90        ,8.1,"30,387",--
+998,Nosferatu,(1922),Not Rated,tt0013442,94 min,"
+Fantasy, Horror            ",--,7.9,"89,082",--
+999,The Cabinet of Dr. Caligari,(1920),Not Rated,tt0010323,67 min,"
+Fantasy, Horror, Mystery            ",--,8.1,"57,655",--
